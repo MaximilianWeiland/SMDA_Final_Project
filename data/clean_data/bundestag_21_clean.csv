@@ -1,0 +1,747 @@
+id,full_name,birthdate,gender,faction,faction_start,faction_end,profession,district_number,district_name,mandate,clean_handle
+11004727,Albrecht Glaser,1942-01-08,männlich,AfD,2021-10-26,2025-03-25,"Stadtkämmerer a. D., Bürgermeister a. D.",170.0,Schwalm-Eder,Landesliste,
+11004674,Andreas Bleck,1988-04-17,männlich,AfD,2021-10-26,2025-03-25,Büroleiter,197.0,Neuwied,Landesliste,
+11005126,Barbara Lenk,1982-10-04,weiblich,AfD,2021-10-26,2025-03-25,Dipl.-Bibliothekarin (FH),155.0,Meißen,Direktwahl,
+11004905,Beatrix Storch,1971-05-27,weiblich,AfD,2021-10-26,2025-03-25,Anwältin,75.0,Berlin-Mitte,Landesliste,
+11005203,Bernd Schattner,1968-06-27,männlich,AfD,2021-10-26,2025-03-25,Geschäftsführer,211.0,Südpfalz,Landesliste,
+11005014,Carolin Bachmann,1988-09-03,weiblich,AfD,2021-10-26,2025-03-25,,161.0,Mittelsachsen,Direktwahl,
+11004719,Dietmar Friedhoff,1966-06-18,männlich,AfD,2021-10-26,2025-03-25,"Dipl.-Ingenieur, Vertriebstrainer, Gebäudesystemdesigner",43.0,Hannover-Land I,Landesliste,
+11005031,Dirk Brandes,1974-05-25,männlich,AfD,2021-10-26,2025-03-25,Industriekaufmann,47.0,Hannover-Land II,Landesliste,
+11004724,Dr. Alexander Gauland,1941-02-20,männlich,AfD,2021-10-26,2025-03-25,"Staatssekretär a. D., Publizist",,,Landesliste,
+11004930,Dr. Alice Weidel,1979-02-06,weiblich,AfD,2021-10-26,2025-03-25,"Dipl.-Kauffrau, Dipl.-Volkswirtin",293.0,Bodensee,Landesliste,
+11004662,Dr. Bernd Baumann,1958-01-31,männlich,AfD,2021-10-26,2025-03-25,Kaufmann,19.0,Hamburg-Altona,Landesliste,
+11004936,Dr. Christian Wirth,1963-04-27,männlich,AfD,2021-10-26,2025-03-25,Rechtsanwalt,299.0,Homburg,Landesliste,
+11005018,Dr. Christina Baum,1956-03-21,weiblich,AfD,2021-10-26,2025-03-25,Zahnärztin,276.0,Odenwald - Tauber,Landesliste,
+11004899,Dr. Dirk Spaniel,1971-11-03,männlich,AfD,2021-10-26,2024-10-15,Ingenieur,258.0,Stuttgart I,Landesliste,
+11004698,Dr. Gottfried Curio,1960-09-02,männlich,AfD,2021-10-26,2025-03-25,,,,Landesliste,
+11004722,Dr. Götz Frömming,1968-08-30,männlich,AfD,2021-10-26,2025-03-25,Gymnasiallehrer,76.0,Berlin-Pankow,Landesliste,
+11005099,Dr. Malte Kaufmann,1976-12-14,männlich,AfD,2021-10-26,2025-03-25,"Dipl.-Volkswirt, Unternehmer",274.0,Heidelberg,Landesliste,
+11004768,Dr. Marc Jongen,1968-05-23,männlich,AfD,2021-10-26,2024-07-15,Dozent für Philosophie,266.0,Neckar-Zaber,Landesliste,
+11004711,Dr. Michael Espendiller,1989-05-05,männlich,AfD,2021-10-26,2025-03-25,"Mathematiker, Volkswirt",126.0,Borken II,Landesliste,
+11004792,Dr. Rainer Kraft,1974-01-08,männlich,AfD,2021-10-26,2025-03-25,Dipl.-Chemiker,253.0,Augsburg-Land,Landesliste,
+11005305,Dr. Rainer Rothfuß,1971-04-19,männlich,AfD,2023-03-02,2025-03-25,Geopolitik-Analyst,256.0,Oberallgäu,Landesliste,
+11005166,Edgar Naujok,1960-06-25,männlich,AfD,2021-10-26,2025-03-25,Unternehmer,154.0,Leipzig-Land,Direktwahl,
+11004787,Enrico Komning,1968-08-06,männlich,AfD,2021-10-26,2025-03-25,Rechtsanwalt,16.0,Mecklenburgische Seenplatte I - Vorpommern-Greifswald II,Landesliste,
+11005209,Eugen Schmidt,1975-10-23,männlich,AfD,2021-10-26,2025-03-25,Diplom Informatiker,91.0,Rhein-Erft-Kreis I,Landesliste,
+11004767,Fabian Jacobi,1973-06-19,männlich,AfD,2021-10-26,2025-03-25,Rechtsanwalt,93.0,Köln I,Landesliste,
+11005189,Frank Rinck,1986-11-04,männlich,AfD,2021-10-26,2025-03-25,Landwirt,48.0,Hildesheim,Landesliste,
+11005029,Gereon Bollmann,1953-11-20,männlich,AfD,2021-10-26,2025-03-25,Richter am Oberlandesgericht a. D.,4.0,Rendsburg-Eckernförde,Landesliste,
+11004846,Gerold Otten,1955-12-07,männlich,AfD,2021-10-26,2025-03-25,Berufssoldat a. D.,221.0,München-Land,Landesliste,
+11005091,Gerrit Huy,1953-05-13,weiblich,AfD,2021-10-26,2025-03-25,Diplommathematikerin,226.0,Weilheim,Landesliste,
+11005066,Hannes Gnauck,1991-08-08,männlich,AfD,2021-10-26,2025-03-25,Soldat auf Zeit,57.0,Uckermark - Barnim I,Landesliste,
+11004842,Jan Ralf Nolte,1988-12-30,männlich,AfD,2021-10-26,2025-03-25,Soldat,167.0,Waldeck,Landesliste,
+11005210,Jan Wenzel Schmidt,1991-10-08,männlich,AfD,2021-10-26,2025-03-25,Handelsfachwirt,67.0,Börde - Jerichower Land,Landesliste,
+11005264,Joachim Wundrak,1955-05-28,männlich,AfD,2021-10-26,2025-03-25,Generalleutnant a. D.,26.0,Friesland - Wilhelmshaven - Wittmund,Landesliste,
+11004739,Jochen Haug,1973-01-11,männlich,AfD,2021-10-26,2025-03-25,Rechtsanwalt,95.0,Köln III,Landesliste,
+11004880,Jörg Schneider,1964-05-14,männlich,AfD,2021-10-26,2025-03-25,Dipl.-Wirtschaftsingenieur,123.0,Gelsenkirchen,Landesliste,
+11004788,Jörn König,1967-10-29,männlich,AfD,2021-10-26,2025-03-25,"IT-Unternehmensberater, Dipl.-Ing. (MBA)",41.0,Stadt Hannover I,Landesliste,
+11004680,Jürgen Braun,1961-08-25,männlich,AfD,2021-10-26,2025-03-25,Jurist,264.0,Waiblingen,Landesliste,
+11004856,Jürgen Pohl,1964-01-07,männlich,AfD,2021-10-26,2025-03-25,Rechtsanwalt,189.0,Eichsfeld - Nordhausen - Kyffhäuserkreis,Landesliste,
+11004752,Karsten Hilse,1964-12-12,männlich,AfD,2021-10-26,2025-03-25,Polizeibeamter,156.0,Bautzen I,Direktwahl,
+11004731,Kay Gottschalk,1965-12-12,männlich,AfD,2021-10-26,2025-03-25,Dipl.-Kaufmann,111.0,Viersen,Landesliste,
+11005265,Kay-Uwe Ziegler,1963-10-27,männlich,AfD,2021-10-26,2025-03-25,Kaufmann / Geschäftsführer Textilhandel,71.0,Anhalt,Direktwahl,
+11005232,Klaus Stöber,1961-09-11,männlich,AfD,2021-10-26,2025-03-25,Steuerberater,190.0,Eisenach - Wartburgkreis - Unstrut-Hainich-Kreis,Direktwahl,
+11004761,Leif-Erik Holm,1970-08-01,männlich,AfD,2021-10-26,2025-03-25,Ökonom (M. Sc.),15.0,Vorpommern-Rügen - Vorpommern-Greifswald I,Landesliste,
+11005315,Manfred Schiller,1961-09-23,männlich,AfD,2024-07-23,2025-03-25,"Radio- und Fernsehtechniker, selbstständig",235.0,Weiden,Landesliste,
+11004669,Marc Bernhard,1972-02-05,männlich,AfD,2021-10-26,2025-03-25,"Rechtsanwalt, MBA",271.0,Karlsruhe-Stadt,Landesliste,
+11004687,Marcus Bühl,1977-04-29,männlich,AfD,2021-10-26,2025-03-25,Dipl.-Informatiker (M. Sc.) (FH),192.0,Gotha - Ilm-Kreis,Direktwahl,
+11004736,Mariana Iris Harder-Kühnel,1974-08-16,weiblich,AfD,2021-10-26,2025-03-25,Rechtsanwältin,175.0,Main-Kinzig - Wetterau II - Schotten,Landesliste,
+11004721,Markus Frohnmaier,1991-02-25,männlich,AfD,2021-10-26,2025-03-25,Pressesprecher,260.0,Böblingen,Landesliste,
+11004862,Martin Erwin Renner,1954-05-05,männlich,AfD,2021-10-26,2025-03-25,Dipl.-Betriebswirt,104.0,Mettmann I,Landesliste,
+11004749,Martin Hess,1971-01-11,männlich,AfD,2021-10-26,2025-03-25,Polizeihauptkommissar a. D.,265.0,Ludwigsburg,Landesliste,
+11004859,Martin Reichardt,1969-07-30,männlich,AfD,2021-10-26,2025-03-25,"Offizier, Dipl.-Pädagoge",73.0,Burgenland - Saalekreis,Landesliste,
+11004892,Martin Sichert,1980-06-10,männlich,AfD,2021-10-26,2025-03-25,Dipl.-Kaufmann,244.0,Nürnberg-Nord,Landesliste,
+11005157,Matthias Moosdorf,1965-04-20,männlich,AfD,2021-10-26,2025-03-25,"Musiker, Hochschullehrer",165.0,Zwickau,Direktwahl,
+11005156,Mike Moncsek,1964-08-08,männlich,AfD,2021-10-26,2025-03-25,Kfz-Mechaniker,163.0,Chemnitzer Umland - Erzgebirgskreis II,Direktwahl,
+11004753,Nicole Höchst,1970-02-10,weiblich,AfD,2021-10-26,2025-03-25,,201.0,Kreuznach,Landesliste,nicolehoechst-mdb.bsky.social
+11004781,Norbert Kleinwächter,1986-02-22,männlich,AfD,2021-10-26,2025-03-25,Lehrer,,,Landesliste,
+11004675,Peter Boehringer,1969-04-06,männlich,AfD,2021-10-26,2025-03-25,"Publizist, Kaufmann",232.0,Amberg,Landesliste,
+11004714,Peter Felser,1969-09-20,männlich,AfD,2021-10-26,2025-03-25,Unternehmer,,,Landesliste,
+11004692,Petr Bystron,1972-11-30,männlich,AfD,2021-10-26,2024-07-15,Diplom-Politologe,217.0,München-Nord,Landesliste,
+11004932,Prof. Dr. Harald Weyel,1959-08-30,männlich,AfD,2021-10-26,2025-03-25,Professor der Betriebswirtschaft,100.0,Rheinisch-Bergischer Kreis,Landesliste,
+11005100,Prof. Dr. Michael Kaufmann,1964-04-21,männlich,AfD,2021-10-26,2025-03-25,"Ingenieur, Hochschullehrer",195.0,Saalfeld-Rudolstadt - Saale-Holzland-Kreis - Saale-Orla-Kreis,Direktwahl,
+11005026,René Bochmann,1969-02-04,männlich,AfD,2021-10-26,2025-03-25,Bürokaufmann,151.0,Nordsachsen,Direktwahl,
+11004900,René Springer,1979-07-15,männlich,AfD,2021-10-26,2025-03-25,Politikwissenschaftler,,,Landesliste,
+11005020,Roger Beckamp,1975-07-18,männlich,AfD,2021-10-26,2025-03-25,Rechtsanwalt,98.0,Rhein-Sieg-Kreis II,Landesliste,
+11004807,Rüdiger Lucassen,1951-08-19,männlich,AfD,2021-10-26,2025-03-25,Mitglied des Deutschen Bundestag,92.0,Euskirchen - Rhein-Erft-Kreis II,Landesliste,
+11004836,Sebastian Münzenmaier,1989-07-02,männlich,AfD,2021-10-26,2025-03-25,Finanzanlagen- und Versicherungsfachmann (IHK),205.0,Mainz,Landesliste,
+11004778,Stefan Keuter,1972-08-19,männlich,AfD,2021-10-26,2025-03-25,Bankkaufmann,120.0,Essen III,Landesliste,
+11005092,Steffen Janich,1971-01-22,männlich,AfD,2021-10-26,2025-03-25,Polizist,158.0,Sächsische Schweiz-Osterzgebirge,Direktwahl,
+11004791,Steffen Kotré,1971-04-29,männlich,AfD,2021-10-26,2025-03-25,Dipl.-Ingenieur,62.0,Dahme-Spreewald - Teltow-Fläming III - Oberspreewald-Lausitz I,Landesliste,
+11004678,Stephan Brandner,1966-05-29,männlich,AfD,2021-10-26,2025-03-25,"Rechtsanwalt, Industriekaufmann",194.0,Gera - Greiz - Altenburger Land,Direktwahl,
+11004858,Stephan Protschka,1977-11-08,männlich,AfD,2021-10-26,2025-03-25,selbständig,230.0,Rottal-Inn,Landesliste,
+11005042,Thomas Dietz,1967-03-12,männlich,AfD,2021-10-26,2025-03-25,MdB,164.0,Erzgebirgskreis I,Direktwahl,
+11004707,Thomas Ehrhorn,1959-03-20,männlich,AfD,2021-10-26,2025-03-25,Pilot,44.0,Celle - Uelzen,Landesliste,
+11004695,Tino Chrupalla,1975-04-14,männlich,AfD,2021-10-26,2025-03-25,Maler- und Lackierermeister,157.0,Görlitz,Direktwahl,
+11004850,Tobias Matthias Peterka,1982-09-04,männlich,AfD,2021-10-26,2025-03-25,Jurist,237.0,Bayreuth,Landesliste,
+11004873,Ulrike Schielke-Ziesing,1969-06-17,weiblich,AfD,2021-10-26,2025-03-25,"Deutsche Rentenversicherung, gehobener Dienst",17.0,Mecklenburgische Seenplatte II - Landkreis Rostock III,Landesliste,
+11004888,Uwe Schulz,1961-12-12,männlich,AfD,2021-10-26,2025-03-25,Leitender Angestellter,173.0,Gießen,Landesliste,
+11004835,Volker Münz,1964-08-08,männlich,AfD,2024-07-16,2025-03-25,"Dipl.-Ökonom, Verlagsinhaber",263.0,Göppingen,Landesliste,
+11004933,Wolfgang Wiehle,1964-10-20,männlich,AfD,2021-10-26,2025-03-25,Dipl.-Informatiker,219.0,München-Süd,Landesliste,
+11004106,Agnes Malczak,1985-02-08,weiblich,Grünen,2021-10-26,2025-03-25,,294.0,Ravensburg,Landesliste,
+11005011,Andreas Audretsch,1984-06-25,männlich,Grünen,2021-10-26,2025-03-25,Sozialwissenschaftler,82.0,Berlin-Neukölln,Landesliste,andreasaudretsch.de
+11005130,Anja Liebert,1969-09-19,weiblich,Grünen,2021-10-26,2025-03-25,Verwaltungsangestellte,102.0,Wuppertal I,Landesliste,
+11004245,Annalena Baerbock,1980-12-15,weiblich,Grünen,2021-10-26,2025-03-25,Völkerrechtlerin,61.0,Potsdam - Potsdam-Mittelmark II - Teltow-Fläming II,Landesliste,albaerbock.bsky.social
+11005237,Awet Tesfaiesus,1974-10-05,weiblich,Grünen,2021-10-26,2025-03-25,Rechtsanwältin,169.0,Werra-Meißner - Hersfeld-Rotenburg,Landesliste,awettesfaiesus.bsky.social
+11004117,Beate Müller-Gemmeke,1960-10-07,weiblich,Grünen,2021-10-26,2025-03-25,Dipl. Sozialpädagogin (FH),289.0,Reutlingen,Landesliste,gruenebeate.bsky.social
+11004221,Beate Walter-Rosenheimer,1964-11-20,weiblich,Grünen,2021-10-26,2025-03-25,Diplom-Psychologin,215.0,Fürstenfeldbruck,Landesliste,
+11005083,Bernhard Herrmann,1966-01-13,männlich,Grünen,2021-10-26,2025-03-25,Dipl.-Wasserbauingenieur,163.0,Chemnitzer Umland - Erzgebirgskreis II,Landesliste,bherrmann.bsky.social
+11005155,Boris Mijatović,1974-02-04,männlich,Grünen,2021-10-26,2025-03-25,Angestellter,168.0,Kassel,Landesliste,boris-mijatovic.bsky.social
+11003764,Britta Haßelmann,1961-12-10,weiblich,Grünen,2021-10-26,2025-03-25,Sozialarbeiterin,132.0,Bielefeld - Gütersloh II,Landesliste,britta-hasselmann.de
+11005086,Bruno Hönel,1996-04-01,männlich,Grünen,2021-10-26,2025-03-25,Psychologe (B. Sc.),11.0,Lübeck,Landesliste,brunohoenel.bsky.social
+11004665,Canan Bayram,1966-02-11,weiblich,Grünen,2021-10-26,2025-03-25,Rechtsanwältin,83.0,Berlin-Friedrichshain-Kreuzberg - Prenzlauer Berg Ost,Direktwahl,lieblingxhain.bsky.social
+11002746,Cem Özdemir,1965-12-21,männlich,Grünen,2021-10-26,2025-03-25,Dipl.-Sozialpädagoge,258.0,Stuttgart I,Direktwahl,oezdemir.de
+11005111,Chantal Kopf,1995-03-20,weiblich,Grünen,2021-10-26,2025-03-25,Politikwissenschaftlerin,281.0,Freiburg,Direktwahl,chantalkopf.bsky.social
+11005214,Christina-Johanne Schröder,1983-12-06,weiblich,Grünen,2021-10-26,2025-03-25,Sozialwissenschaftlerin,28.0,Delmenhorst - Wesermarsch - Oldenburg-Land,Landesliste,cjschroeder.de
+11004830,Claudia Müller,1981-08-10,weiblich,Grünen,2021-10-26,2025-03-25,Betriebswirtin,15.0,Vorpommern-Rügen - Vorpommern-Greifswald I,Landesliste,gruenclaudia.bsky.social
+11003212,Claudia Roth,1955-05-15,weiblich,Grünen,2021-10-26,2025-03-25,,252.0,Augsburg-Stadt,Landesliste,claudiaroth.bsky.social
+11004390,Corinna Rüffer,1975-10-11,weiblich,Grünen,2021-10-26,2025-03-25,Poltikerin,203.0,Trier,Landesliste,corinna-rueffer.de
+11005045,Deborah Düring,1994-07-18,weiblich,Grünen,2021-10-26,2025-03-25,,182.0,Frankfurt am Main I,Landesliste,deborah-duering.de
+11005133,Denise Loop,1994-05-19,weiblich,Grünen,2021-10-26,2025-03-25,Sozialarbeiterin,2.0,Nordfriesland - Dithmarschen Nord,Landesliste,
+11004312,Dieter Janecek,1976-05-25,männlich,Grünen,2021-10-26,2025-03-25,Dipl.-Politikwissenschaftler,220.0,München-West/Mitte,Landesliste,djanecek.bsky.social
+11004694,Dr. Anna Christmann,1983-09-24,weiblich,Grünen,2021-10-26,2025-03-25,Politikwissenschaftlerin,259.0,Stuttgart II,Landesliste,annachristmann.de‬
+11003585,Dr. Anna Lührmann,1983-06-14,weiblich,Grünen,2021-10-26,2025-03-25,Politikwissenschaftlerin,187.0,Odenwald,Landesliste,annaluehrmann.bsky.social‬
+11005225,Dr. Anne Monika Spallek,1968-01-16,weiblich,Grünen,2021-10-26,2025-03-25,"Betriebsleiterin Pferdehof, Unternehmensberaterin",127.0,Coesfeld - Steinfurt II,Landesliste,annemonikaspallek.de‬
+11003772,Dr. Anton Hofreiter,1970-02-02,männlich,Grünen,2021-10-26,2025-03-25,Biologe,221.0,München-Land,Landesliste,hofreiter.bsky.social‬
+11004756,Dr. Bettina Hoffmann,1960-01-18,weiblich,Grünen,2021-10-26,2025-03-25,Dipl.-Biologin,170.0,Schwalm-Eder,Landesliste,bhoffmann.bsky.social
+11004255,Dr. Franziska Brantner,1979-08-24,weiblich,Grünen,2021-10-26,2025-03-25,Sozialwissenschaftlerin,274.0,Heidelberg,Direktwahl,franziskabrantner.de‬
+11005312,Dr. Franziska Krumwiede-Steiner,1985-07-23,weiblich,Grünen,2024-03-04,2025-03-25,Lehrerin,118.0,Mülheim - Essen I,Landesliste,
+11004353,Dr. Irene Mihalic,1976-11-17,weiblich,Grünen,2021-10-26,2025-03-25,Polizeibeamtin,123.0,Gelsenkirchen,Landesliste,irene-mihalic.de‬
+11005065,Dr. Jan-Niclas Gesenhues,1990-02-12,männlich,Grünen,2021-10-26,2025-03-25,"Volkswirt, MdB",128.0,Steinfurt III,Landesliste,gesenhues.bsky.social‬
+11004962,Dr. Janosch Dahmen,1981-09-06,männlich,Grünen,2021-10-26,2025-03-25,Arzt,138.0,Hagen - Ennepe-Ruhr-Kreis I,Landesliste,janoschdahmenmdb.de‬
+11004429,Dr. Julia Verlinden,1979-01-18,weiblich,Grünen,2021-10-26,2025-03-25,Dipl.-Umweltwissenschaftlerin,37.0,Lüchow-Dannenberg - Lüneburg,Landesliste,
+11004773,Dr. Kirsten Kappert-Gonther,1966-11-03,weiblich,Grünen,2021-10-26,2025-03-25,Fachärztin für Psychatrie und Psychotherapie,54.0,Bremen I,Landesliste,kirstenkappert.bsky.social‬
+11004123,Dr. Konstantin Notz,1971-01-21,männlich,Grünen,2021-10-26,2025-03-25,Rechtsanwalt,10.0,Herzogtum Lauenburg - Stormarn-Süd,Landesliste,
+11004866,Dr. Manuela Rottmann,1972-05-09,weiblich,Grünen,2021-10-26,2024-12-01,Juristin,248.0,Bad Kissingen,Landesliste,manuelarottmann.bsky.social‬
+11005167,Dr. Ophelia Nick,1973-01-24,weiblich,Grünen,2021-10-26,2025-03-25,"Tierärztin, Bundestagsabgeordnete",105.0,Mettmann II,Landesliste,ophelia-nick.de‬
+11005180,Dr. Paula Piechotta,1986-09-19,weiblich,Grünen,2021-10-26,2025-03-25,Ärztin,153.0,Leipzig II,Landesliste,paulapiechotta.de
+11005074,Dr. Robert Habeck,1969-09-02,männlich,Grünen,2021-10-26,2025-03-25,Schriftsteller,1.0,Flensburg - Schleswig,Direktwahl,robert-habeck.de‬
+11005039,Dr. Sandra Detzer,1980-04-21,weiblich,Grünen,2021-10-26,2025-03-25,Politikwissenschaftlerin,265.0,Ludwigsburg,Landesliste,sandradetzer.bsky.social
+11005201,Dr. Sebastian Schäfer,1979-07-11,männlich,Grünen,2021-10-26,2025-03-25,Wirtschaftswissenschaftler,261.0,Esslingen,Landesliste,
+11005228,Dr. Till Steffen,1973-07-22,männlich,Grünen,2021-10-26,2025-03-25,Rechtsanwalt,20.0,Hamburg-Eimsbüttel,Direktwahl,tillsteffen.de‬
+11004217,Dr. Tobias Lindner,1982-01-11,männlich,Grünen,2021-10-26,2025-03-25,Wirtschaftswissenschaftler,211.0,Südpfalz,Landesliste,tobiaslindner.bsky.social
+11003888,Dr. Wolfgang Strengmann-Kuhn,1964-05-20,männlich,Grünen,2021-10-26,2025-03-25,Volkswirt,185.0,Offenbach,Landesliste,strengmann-kuhn.de‬
+11005145,Dr. Zoe Mayer,1995-08-07,weiblich,Grünen,2021-10-26,2025-03-25,Doktorin der Ingenieurwissenschaften (Dr.-Ing.),271.0,Karlsruhe-Stadt,Direktwahl,zoegruene.bsky.social
+11003068,Ekin Deligöz,1971-04-21,weiblich,Grünen,2021-10-26,2025-03-25,Dipl.-Verwaltungswissenschaftlerin,255.0,Neu-Ulm,Landesliste,ekin-deligoez.de
+11005055,Emilia Fester,1998-04-28,weiblich,Grünen,2021-10-26,2025-03-25,Regieassistentin,,,Landesliste,emiliafester.de
+11004733,Erhard Grundl,1963-01-07,männlich,Grünen,2021-10-26,2025-03-25,Vertriebsmanager,231.0,Straubing,Landesliste,erhardgrundl.bsky.social
+11005016,Felix Banaszak,1989-10-24,männlich,Grünen,2021-10-26,2025-03-25,,116.0,Duisburg II,Landesliste,
+11004857,Filiz Polat,1978-07-11,weiblich,Grünen,2021-10-26,2025-03-25,Dipl.-Volkswirtin,38.0,Osnabrück-Land,Landesliste,filiz-polat.de
+11005034,Frank Bsirske,1952-02-10,männlich,Grünen,2021-10-26,2025-03-25,Dipl.-Politologe,51.0,Helmstedt - Wolfsburg,Landesliste,frankbsirske.bsky.social
+11005230,Hanna Steinmüller,1993-04-09,weiblich,Grünen,2021-10-26,2025-03-25,Sozialwissenschaftlerin,75.0,Berlin-Mitte,Direktwahl,hanna-steinmueller.de
+11004215,Harald Ebner,1964-07-08,männlich,Grünen,2021-10-26,2025-03-25,Agraringenieur,268.0,Schwäbisch Hall - Hohenlohe,Landesliste,ebnerharald.bsky.social
+11005132,Helge Limburg,1982-10-25,männlich,Grünen,2021-10-26,2025-03-25,Dipl.-Jurist,46.0,Hameln-Pyrmont - Holzminden,Landesliste,helgelimburg.bsky.social
+11004119,Ingrid Nestle,1977-12-22,weiblich,Grünen,2021-10-26,2025-03-25,Diplom-Wirtschaftsingenieurin,3.0,Steinburg - Dithmarschen Süd,Landesliste,
+11005200,Jamila Schäfer,1993-04-30,weiblich,Grünen,2021-10-26,2025-03-25,Studentin der Soziologie,219.0,München-Süd,Direktwahl,jamilaschaefer.bsky.social
+11005319,Johannes F. Kretschmann,1978-07-14,männlich,Grünen,2025-01-27,2025-03-25,Freiberuflicher Kulturschaffender,295.0,Zollernalb - Sigmaringen,Landesliste,
+11005248,Johannes Wagner,1991-08-01,männlich,Grünen,2021-10-26,2025-03-25,Arzt,238.0,Coburg,Landesliste,yoohannes.bsky.social
+11005173,Julian Pahlke,1991-10-15,männlich,Grünen,2021-10-26,2025-03-25,ohne Angabe,25.0,Unterems,Landesliste,jpahlke.bsky.social
+11005311,Jürgen Kretz,1982-06-07,männlich,Grünen,2024-02-15,2025-03-25,Politikwissenschaftler,277.0,Rhein-Neckar,Landesliste,juergenkretz.bsky.social
+11003756,Kai Gehring,1977-12-26,männlich,Grünen,2021-10-26,2025-03-25,Dipl.-Sozialwissenschaftler,120.0,Essen III,Landesliste,kgehring.bsky.social
+11005017,Karl Bär,1985-03-13,männlich,Grünen,2021-10-26,2025-03-25,Agrarökonom,223.0,Bad Tölz-Wolfratshausen - Miesbach,Landesliste,karlbaer.bsky.social
+11005172,Karoline Otte,1996-09-11,weiblich,Grünen,2021-10-26,2025-03-25,Kreisinspektorin,52.0,Goslar - Northeim - Osterode,Landesliste,
+11005197,Kassem Taher Saleh,1993-06-01,männlich,Grünen,2021-10-26,2025-03-25,Bauingenieur,159.0,Dresden I,Landesliste,kassemtahersaleh.bsky.social
+11005019,Katharina Beck,1982-04-13,weiblich,Grünen,2021-10-26,2025-03-25,Unternehmensberaterin für Nachhaltigkeit,21.0,Hamburg-Nord,Landesliste,katharinabeck.bsky.social
+11004263,Katharina Dröge,1984-09-16,weiblich,Grünen,2021-10-26,2025-03-25,Volkswirtin,95.0,Köln III,Landesliste,katharinadroege.bsky.social
+11005080,Kathrin Henneberger,1987-04-01,weiblich,Grünen,2021-10-26,2025-03-25,Angestellte,109.0,Mönchengladbach,Landesliste,kathrinanna.bsky.social‬
+11004067,Katja Keul,1969-11-30,weiblich,Grünen,2021-10-26,2025-03-25,Rechtsanwältin,40.0,Nienburg II - Schaumburg,Landesliste,katja-keul.de
+11003132,Katrin Dagmar Göring-Eckardt,1966-05-03,weiblich,Grünen,2021-10-26,2025-03-25,MdB,193.0,Erfurt - Weimar - Weimarer Land II,Landesliste,
+11005242,Katrin Uhlig,1982-07-05,weiblich,Grünen,2021-10-26,2025-03-25,Dipl.-Kulturwirtin,96.0,Bonn,Direktwahl,katrinuhlig.bsky.social
+11004405,Kordula Schulz-Asche,1956-12-31,weiblich,Grünen,2021-10-26,2025-03-25,"Krankenschwester, Kommunikationswissenschaftlerin",181.0,Main-Taunus,Landesliste,schulzasche.bsky.social
+11005095,Lamya Kaddor,1978-06-11,weiblich,Grünen,2021-10-26,2025-03-25,"Islamwissenschaftlerin, Lehrerin für islamischen Religionsunterricht, Publizistin",115.0,Duisburg I,Landesliste,lamyakaddor.bsky.social
+11005113,Laura Kraft,1990-12-01,weiblich,Grünen,2021-10-26,2025-03-25,Literaturwissenschaftlerin,148.0,Siegen-Wittgenstein,Landesliste,laurakraft.bsky.social
+11005047,Leon Eckert,1995-04-09,männlich,Grünen,2021-10-26,2025-03-25,Kommunalreferent,214.0,Freising,Landesliste,leon-eckert.de
+11005078,Linda Heitmann,1982-08-02,weiblich,Grünen,2021-10-26,2025-03-25,Geschäftsführung in der Suchtkrankenhilfe,19.0,Hamburg-Altona,Direktwahl,linda-altona.bsky.social
+11004659,Lisa Badum,1983-10-02,weiblich,Grünen,2021-10-26,2025-03-25,Politikwissenschaftlerin,236.0,Bamberg,Landesliste,lisa-badum.de
+11004127,Lisa Paus,1968-09-19,weiblich,Grünen,2021-10-26,2025-03-25,,80.0,Berlin-Charlottenburg-Wilmersdorf,Landesliste,lisapaus.bsky.social
+11004243,Luise Amtsberg,1984-10-17,weiblich,Grünen,2021-10-26,2025-03-25,,5.0,Kiel,Landesliste,luiseamtsberg.bsky.social
+11005022,Lukas Benner,1996-02-20,männlich,Grünen,2021-10-26,2025-03-25,Jurist,88.0,Aachen II,Landesliste,noraschulte.bsky.social
+11005012,Maik Außendorf,1971-08-17,männlich,Grünen,2021-10-26,2025-03-25,IT-Unternehmer,100.0,Rheinisch-Bergischer Kreis,Landesliste,maik-aussendorf.de
+11004969,Marcel Emmerich,1991-05-12,männlich,Grünen,2021-10-26,2025-03-25,Wissenschaftlicher Referent,291.0,Ulm,Landesliste,herremmerich.bsky.social
+11004072,Maria Klein-Schmeink,1958-01-06,weiblich,Grünen,2021-10-26,2025-03-25,Soziologin,129.0,Münster,Direktwahl,mklsch.bsky.social
+11003578,Markus Kurth,1966-04-14,männlich,Grünen,2021-10-26,2025-03-25,Dipl. Politologe,142.0,Dortmund I,Landesliste,markus-kurth.de
+11005212,Marlene Schönberger,1990-12-06,weiblich,Grünen,2021-10-26,2025-03-25,Politikwissenschaftlerin (M. A.),230.0,Rottal-Inn,Landesliste,marleneschonberger.bsky.social
+11004278,Matthias Gastel,1970-12-26,männlich,Grünen,2021-10-26,2025-03-25,,262.0,Nürtingen,Landesliste,matthias-gastel.de
+11005134,Max Lucks,1997-04-19,männlich,Grünen,2021-10-26,2025-03-25,Sozialwissenschaftler (B.A.),140.0,Bochum I,Landesliste,
+11005222,Melis Sekmen,1993-09-26,weiblich,Grünen,2021-10-26,2024-07-02,Studentin,275.0,Mannheim,Landesliste,
+11005226,Merle Spellerberg,1996-11-13,weiblich,Grünen,2021-10-26,2025-03-25,Studentin,160.0,Dresden II - Bautzen II,Landesliste,merlespellerberg.bsky.social
+11005102,Michael Kellner,1977-05-08,männlich,Grünen,2021-10-26,2025-03-25,Politiker,57.0,Uckermark - Barnim I,Landesliste,mikellner.bsky.social
+11005298,Michael Sacher,1964-09-01,männlich,Grünen,2022-06-30,2025-03-25,Buchhändler,144.0,Unna I,Landesliste,michaelsacher.bsky.social
+11005104,Misbah Khan,1989-12-04,weiblich,Grünen,2021-10-26,2025-03-25,,,,Landesliste,misbahkhan.bsky.social
+11005245,Niklas Wagener,1998-04-16,männlich,Grünen,2021-10-26,2025-03-25,Abgeordneter,247.0,Aschaffenburg,Landesliste,niklaswagener.bsky.social
+11005224,Nyke Slawik,1994-01-07,weiblich,Grünen,2021-10-26,2025-03-25,Bundestagsabgeordnete,101.0,Leverkusen - Köln IV,Landesliste,nykeslawik.bsky.social
+11003881,Omid Nouripour,1975-06-18,männlich,Grünen,2021-10-26,2025-03-25,"Selbstständiger Berater (Tätigkeit ruht, solange MdB)",183.0,Frankfurt am Main II,Direktwahl,nouripour.bsky.social
+11004762,Ottmar Holtz,1961-09-27,männlich,Grünen,2024-01-10,2025-03-25,Diplom-Ökonom,48.0,Hildesheim,Landesliste,owvonholtz.bsky.social
+11005114,Philip Krämer,1992-02-29,männlich,Grünen,2021-10-26,2025-03-25,Kulturmanager,187.0,Odenwald,Landesliste,philip-kraemer.de
+11005187,Prof. Dr. Anja Reinalter,1970-05-01,weiblich,Grünen,2021-10-26,2025-03-25,Professorin für Soziale Arbeit,292.0,Biberach,Landesliste,anjareinalter.bsky.social‬
+11005070,Prof. Dr. Armin Grau,1959-03-18,männlich,Grünen,2021-10-26,2025-03-25,Arzt,207.0,Ludwigshafen/Frankenthal,Landesliste,armingrau.bsky.social‬
+11003576,Renate Künast,1955-12-15,weiblich,Grünen,2021-10-26,2025-03-25,Rechtsanwältin,81.0,Berlin-Tempelhof-Schöneberg,Landesliste,renate-kuenast.de
+11005121,Ricarda Lang,1994-01-17,weiblich,Grünen,2021-10-26,2025-03-25,Abgeordnete,269.0,Backnang - Schwäbisch Gmünd,Landesliste,ricardalang.bsky.social
+11005246,Robin Wagener,1980-08-16,männlich,Grünen,2021-10-26,2025-03-25,Richter,135.0,Lippe I,Landesliste,robinwagener.bsky.social
+11005071,Sabine Grützmacher,1986-01-04,weiblich,Grünen,2021-10-26,2025-03-25,"Dipl.-Sozialpädagogin, Soziologin/Pädagogin",99.0,Oberbergischer Kreis,Landesliste,sabinegruetzmacher.bsky.social
+11005164,Sara Nanni,1987-05-29,weiblich,Grünen,2021-10-26,2025-03-25,Friedens- und Konfliktforscherin,107.0,Düsseldorf II,Landesliste,sarananni.bsky.social
+11005162,Sascha Müller,1970-04-24,männlich,Grünen,2021-10-26,2025-03-25,Sportjournalist,245.0,Nürnberg-Süd,Landesliste,saschamk.bsky.social
+11005253,Saskia Weishaupt,1993-09-20,weiblich,Grünen,2021-10-26,2025-03-25,Politikwissenschaftlerin,,,Landesliste,
+11005059,Schahina Gambir,1991-06-06,weiblich,Grünen,2021-10-26,2025-03-25,,134.0,Minden-Lübbecke I,Landesliste,schahinagambir.bsky.social
+11004726,Stefan Gelbhaar,1976-07-09,männlich,Grünen,2021-10-26,2025-03-25,Rechtsanwalt,76.0,Berlin-Pankow,Direktwahl,
+11004877,Stefan Schmidt,1981-05-19,männlich,Grünen,2021-10-26,2025-03-25,Lehrer,233.0,Regensburg,Landesliste,stefanschmidt.bsky.social
+11005255,Stefan Wenzel,1962-05-05,männlich,Grünen,2021-10-26,2025-03-25,Agrarökonom,29.0,Cuxhaven - Stade II,Landesliste,stefwenzel.bsky.social
+11002720,Steffi Lemke,1968-01-19,weiblich,Grünen,2021-10-26,2025-03-25,Dipl.-Agraringenieurin,70.0,Dessau - Wittenberg,Landesliste,steffi-lemke.de
+11005004,Stephanie Aeffner,1976-04-29,weiblich,Grünen,2021-10-26,2025-01-14,Diplom-Sozialarbeiterin (FH),279.0,Pforzheim,Landesliste,stepnieaeffner.bsky.social
+11005149,Susanne Menge,1960-02-11,weiblich,Grünen,2021-10-26,2025-03-25,Studienrätin,27.0,Oldenburg - Ammerland,Landesliste,
+11004801,Sven Lehmann,1979-12-04,männlich,Grünen,2021-10-26,2025-03-25,,94.0,Köln II,Direktwahl,sven-lehmann.eu
+11004070,Sven-Christian Kindler,1985-02-14,männlich,Grünen,2021-10-26,2025-03-25,"Betriebswirt, Unternehmenscontroller",42.0,Stadt Hannover II,Landesliste,
+11005152,Swantje Henrike Michaelsen,1979-10-04,weiblich,Grünen,2021-10-26,2025-03-25,Historikerin M. A.,41.0,Stadt Hannover I,Landesliste,
+11004138,Tabea Rößner,1966-12-07,weiblich,Grünen,2021-10-26,2025-03-25,Journalistin,205.0,Mainz,Landesliste,tabearoessner.bsky.social
+11005060,Tessa Ganserer,1977-05-16,weiblich,Grünen,2021-10-26,2025-03-25,Dipl.-Ing. Wald- und Forstwirtschaft,244.0,Nürnberg-Nord,Landesliste,
+11005259,Tina Winklmann,1980-02-26,weiblich,Grünen,2021-10-26,2025-03-25,Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik,234.0,Schwandorf,Landesliste,
+11005013,Tobias Bacherle,1994-10-18,männlich,Grünen,2021-10-26,2025-03-25,Student,260.0,Böblingen,Landesliste,tbbacherle.eu
+11004395,Ulle Schauws,1966-04-30,weiblich,Grünen,2021-10-26,2025-03-25,Film- und Fernsehwissenschaftlerin,114.0,Krefeld II - Wesel II,Landesliste,ulleschauws.bsky.social
+11004066,Uwe Kekeritz,1953-10-09,männlich,Grünen,2024-12-02,2025-03-25,Diplomvolkswirt,243.0,Fürth,Landesliste,
+11003620,Albert Rupprecht,1968-06-10,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Volkswirt,235.0,Weiden,Direktwahl,
+11004415,Albert Stegemann,1976-03-09,männlich,CDU/CSU,2021-10-26,2025-03-25,Landwirtschaftsmeister,31.0,Mittelems,Direktwahl,
+11003516,Alexander Dobrindt,1970-06-07,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Soziologe,226.0,Weilheim,Direktwahl,
+11005050,Alexander Engelhard,1972-09-26,männlich,CDU/CSU,2021-10-26,2025-03-25,"Müller, Dipl.-Wirtschaftsingenieur (FH)",255.0,Neu-Ulm,Direktwahl,
+11005304,Alexander Föhr,1980-08-01,männlich,CDU/CSU,2023-03-01,2025-03-25,Leitender Angestellter,274.0,Heidelberg,Landesliste,
+11004304,Alexander Hoffmann,1975-03-06,männlich,CDU/CSU,2021-10-26,2025-03-25,Jurist,249.0,Main-Spessart,Direktwahl,
+11004383,Alexander Radwan,1964-08-30,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,223.0,Bad Tölz-Wolfratshausen - Miesbach,Direktwahl,
+11004917,Alexander Throm,1968-09-08,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,267.0,Heilbronn,Direktwahl,
+11004384,Alois Rainer,1965-01-07,männlich,CDU/CSU,2021-10-26,2025-03-25,Metzgermeister,231.0,Straubing,Direktwahl,
+11004342,Andrea Lindholz,1970-09-25,weiblich,CDU/CSU,2021-10-26,2025-03-25,"Rechtsanwältin, Fachanwältin für Familienrecht",247.0,Aschaffenburg,Direktwahl,
+11003780,Andreas Jung,1975-05-13,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,287.0,Konstanz,Direktwahl,
+11004108,Andreas Mattfeldt,1969-09-28,männlich,CDU/CSU,2021-10-26,2025-03-25,Industriekaufmann,34.0,Osterholz - Verden,Direktwahl,
+11004323,Anja Karliczek,1971-04-29,weiblich,CDU/CSU,2021-10-26,2025-03-25,"Dipl.-Kauffrau, Hotelfachfrau, Bankkauffrau",128.0,Steinfurt III,Direktwahl,
+11005093,Anne Janssen,1982-08-31,weiblich,CDU/CSU,2021-10-26,2025-03-25,"Krankenschwester, Lehrerin",26.0,Friesland - Wilhelmshaven - Wittmund,Landesliste,
+11005110,Anne König,1984-12-04,weiblich,CDU/CSU,2021-10-26,2025-03-25,Gesamtschulrektorin,126.0,Borken II,Direktwahl,
+11003259,Annette Widmann-Mauz,1966-06-13,weiblich,CDU/CSU,2021-10-26,2025-03-25,,290.0,Tübingen,Direktwahl,
+11004056,Ansgar Heveling,1972-07-03,männlich,CDU/CSU,2021-10-26,2025-03-25,Ministerialbeamter (Oberregierungsrat a. D.),110.0,Krefeld I - Neuss II,Direktwahl,
+11003646,Antje Tillmann,1964-08-28,weiblich,CDU/CSU,2021-10-26,2025-03-25,"Dipl. Finanzwirtin, Steuerberaterin",193.0,Erfurt - Weimar - Weimarer Land II,Landesliste,
+11002718,Armin Laschet,1961-02-18,männlich,CDU/CSU,2021-10-26,2025-03-25,Ministerpräsident a. D.,,,Landesliste,
+11003706,Artur Auernhammer,1963-03-09,männlich,CDU/CSU,2021-10-26,2025-03-25,Landwirtschaftsmeister,241.0,Ansbach,Direktwahl,
+11004699,Astrid Damerow,1958-03-30,weiblich,CDU/CSU,2021-10-26,2025-03-25,"Bankkauffrau, Business Coach",2.0,Nordfriesland - Dithmarschen Nord,Direktwahl,
+11004425,Astrid Timmermann-Fechter,1963-06-22,weiblich,CDU/CSU,2021-10-26,2025-03-25,Bundestagsabgeordnete,118.0,Mülheim - Essen I,Landesliste,
+11004073,Axel Knoerig,1967-03-01,männlich,CDU/CSU,2021-10-26,2025-03-25,Kommunal- und Politikwissenschaftler,33.0,Diepholz - Nienburg I,Direktwahl,
+11004829,Axel Müller,1963-07-24,männlich,CDU/CSU,2021-10-26,2025-03-25,Vorsitzender Richter am Landgericht a. D.,294.0,Ravensburg,Direktwahl,
+11004806,Bernhard Loos,1955-07-30,männlich,CDU/CSU,2021-10-26,2025-03-25,Unternehmer,217.0,München-Nord,Direktwahl,
+11004934,Bettina Margarethe Wiesmann,1966-10-20,weiblich,CDU/CSU,2024-01-26,2025-03-25,Unternehmensberaterin,183.0,Frankfurt am Main II,Landesliste,
+11004893,Björn Simon,1981-05-18,männlich,CDU/CSU,2021-10-26,2025-03-25,"Politologe, Magister Artium (M.A.)",185.0,Offenbach,Direktwahl,
+11004332,Carsten Körber,1979-06-11,männlich,CDU/CSU,2021-10-26,2025-03-25,"Betriebswirt, Politikwissenschaftler",165.0,Zwickau,Landesliste,
+11003815,Carsten Müller,1970-05-08,männlich,CDU/CSU,2021-10-26,2025-03-25,"Bankkaufmann, Rechtsanwalt",50.0,Braunschweig,Landesliste,
+11005198,Catarina Santos Firnhaber,1994-07-08,weiblich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwältin,88.0,Aachen II,Landesliste,
+11004286,Christian Haase,1966-05-06,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Verwaltungswirt,136.0,Höxter - Gütersloh III - Lippe II,Direktwahl,
+11003890,Christian Hirte,1976-05-23,männlich,CDU/CSU,2021-10-26,2025-03-25,"Rechtsanwalt, Fachanwalt für Steuerrecht",190.0,Eisenach - Wartburgkreis - Unstrut-Hainich-Kreis,Landesliste,
+11003639,Christian Stetten,1970-07-24,männlich,CDU/CSU,2021-10-26,2025-03-25,selbständiger Kaufmann,268.0,Schwäbisch Hall - Hohenlohe,Direktwahl,
+11005235,Christina Stumpp,1987-11-16,weiblich,CDU/CSU,2021-10-26,2025-03-25,Verwaltungswirtin und Steuerrechtlerin LL.B.,264.0,Waiblingen,Direktwahl,
+11004926,Christoph Vries,1974-12-04,männlich,CDU/CSU,2021-10-26,2025-03-25,"Dipl.-Soziologe, ltd. Angestellter",18.0,Hamburg-Mitte,Landesliste,
+11003613,Daniela Raab,1975-07-07,weiblich,CDU/CSU,2021-10-26,2025-03-25,Juristin,222.0,Rosenheim,Direktwahl,
+11004152,Detlef Seif,1962-08-15,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,92.0,Euskirchen - Rhein-Erft-Kreis II,Direktwahl,
+11005233,Diana Stöcker,1970-05-19,weiblich,CDU/CSU,2021-10-26,2024-06-02,Bürgermeisterin,282.0,Lörrach - Müllheim,Direktwahl,
+11004168,Dieter Stier,1964-06-29,männlich,CDU/CSU,2021-10-26,2025-03-25,"Zootechniker/Mechanisator, Dipl.-Ing.agr., Pferdewirtschaftsmeister",73.0,Burgenland - Saalekreis,Direktwahl,
+11004113,Dietrich Monstadt,1957-09-15,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,12.0,Schwerin - Ludwigslust-Parchim I - Nordwestmecklenburg I,Landesliste,
+11003586,Dorothee Mantel,1978-04-19,weiblich,CDU/CSU,2021-10-26,2025-03-25,Diplom-Politologin,248.0,Bad Kissingen,Direktwahl,
+11004339,Dr. Andreas Lenz,1981-04-23,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Betriebswirt (FH),213.0,Erding - Ebersberg,Direktwahl,
+11004440,Dr. Anja Weisgerber,1976-03-11,weiblich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwältin,250.0,Schweinfurt,Direktwahl,
+11004814,Dr. Astrid Mannes,1967-01-02,weiblich,CDU/CSU,2024-01-26,2025-03-25,"Historikerin, Politikwissenschaftlerin",186.0,Darmstadt,Landesliste,
+11004684,Dr. Carsten Brodesser,1967-09-05,männlich,CDU/CSU,2021-10-26,2025-03-25,Ltd. Angestellter,99.0,Oberbergischer Kreis,Direktwahl,
+11004098,Dr. Carsten Linnemann,1977-08-10,männlich,CDU/CSU,2021-10-26,2025-03-25,Volkswirt,137.0,Paderborn,Direktwahl,
+11005205,Dr. Christiane Schenderlein,1981-10-17,weiblich,CDU/CSU,2021-10-26,2025-03-25,Politikwissenschaftlerin,151.0,Nordsachsen,Landesliste,
+11004854,Dr. Christoph Ploß,1985-07-19,männlich,CDU/CSU,2021-10-26,2025-03-25,Historiker,21.0,Hamburg-Nord,Landesliste,
+11004327,Dr. Georg Kippels,1959-09-21,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,91.0,Rhein-Erft-Kreis I,Direktwahl,
+11003124,Dr. Hans-Peter Friedrich,1957-03-10,männlich,CDU/CSU,2021-10-26,2025-03-25,"Vizepräsident DBT a. D., Rechtsanwalt",239.0,Hof,Direktwahl,
+11004305,Dr. Hendrik Hoppenstedt,1972-06-14,männlich,CDU/CSU,2021-10-26,2025-03-25,"Jurist, Staatsminister a. D., Bürgermeister a. D.",43.0,Hannover-Land I,Landesliste,
+11004912,Dr. Hermann-Josef Tebroke,1964-01-19,männlich,CDU/CSU,2021-10-26,2025-03-25,"Diplom-Betriebswirt, Landrat a.D.",100.0,Rheinisch-Bergischer Kreis,Direktwahl,
+11005069,Dr. Ingeborg Gräßle,1961-03-02,weiblich,CDU/CSU,2021-10-26,2025-03-25,Journalistin,269.0,Backnang - Schwäbisch Gmünd,Direktwahl,
+11004100,Dr. Jan-Marco Luczak,1975-10-02,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,81.0,Berlin-Tempelhof-Schöneberg,Landesliste,
+11004182,Dr. Johann Wadephul,1963-02-10,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,4.0,Rendsburg-Eckernförde,Landesliste,aussenminister.diplo.de‬
+11005063,Dr. Jonas Geissler,1984-06-05,männlich,CDU/CSU,2021-10-26,2025-03-25,Regierungsrat a. D.,238.0,Coburg,Direktwahl,
+11004337,Dr. Katja Leikert,1975-03-03,weiblich,CDU/CSU,2021-10-26,2025-03-25,Politikwissenschaftlerin,180.0,Hanau,Landesliste,kleikert.bsky.social‬
+11005257,Dr. Klaus Wiener,1962-08-21,männlich,CDU/CSU,2021-10-26,2025-03-25,Volkswirt,104.0,Mettmann I,Direktwahl,
+11005254,Dr. Maria-Lena Weiss,1981-04-04,weiblich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwältin,285.0,Rottweil - Tuttlingen,Direktwahl,
+11005185,Dr. Markus Reichel,1968-07-15,männlich,CDU/CSU,2021-10-26,2025-03-25,"Dipl.-Mathematiker, Geschäftsführer",159.0,Dresden I,Direktwahl,
+11005033,Dr. Marlon Bröhr,1974-04-03,männlich,CDU/CSU,2021-10-26,2025-03-25,"Zahnarzt, Landrat a. D.",200.0,Mosel/Rhein-Hunsrück,Direktwahl,
+11005182,Dr. Martin Plum,1982-02-26,männlich,CDU/CSU,2021-10-26,2025-03-25,Richter a. D.,111.0,Viersen,Direktwahl,
+11004110,Dr. Mathias Middelberg,1964-12-14,männlich,CDU/CSU,2021-10-26,2025-03-25,Volljurist,39.0,Stadt Osnabrück,Landesliste,
+11002733,Dr. Michael Meister,1961-06-09,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Mathematiker,188.0,Bergstraße,Direktwahl,
+11002765,Dr. Norbert Röttgen,1965-07-02,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,98.0,Rhein-Sieg-Kreis II,Direktwahl,nroettgen.bsky.social‬
+11005244,Dr. Oliver Vogt,1977-07-15,männlich,CDU/CSU,2021-10-26,2025-03-25,"Dipl.-Physiker, Gymnasiallehrer",134.0,Minden-Lübbecke I,Landesliste,
+11005106,Dr. Ottilie Klein,1984-02-14,weiblich,CDU/CSU,2021-10-26,2025-03-25,Abteilungsdirektorin,75.0,Berlin-Mitte,Landesliste,
+11001772,Dr. Peter Ramsauer,1954-02-10,männlich,CDU/CSU,2021-10-26,2025-03-25,"Dipl.-Kaufmann, Müllermeister",225.0,Traunstein,Direktwahl,
+11004018,Dr. Reinhard Brandl,1977-08-01,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Wirtschaftsingenieur,216.0,Ingolstadt,Direktwahl,
+11004336,Dr. Silke Launert,1976-12-27,weiblich,CDU/CSU,2021-10-26,2025-03-25,Richterin am Landgericht a. D.,237.0,Bayreuth,Direktwahl,
+11004294,Dr. Stefan Heck,1982-08-18,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,171.0,Marburg,Landesliste,
+11004065,Dr. Stefan Kaufmann,1969-08-21,männlich,CDU/CSU,2024-01-04,2025-03-25,Rechtsanwalt,258.0,Stuttgart I,Landesliste,
+11005163,Dr. Stefan Nacke,1976-01-27,männlich,CDU/CSU,2021-10-26,2025-03-25,"Soziologe, Sozialethiker",129.0,Münster,Landesliste,
+11004853,Dr. Stephan Pilsinger,1987-02-17,männlich,CDU/CSU,2021-10-26,2025-03-25,Hausarzt,220.0,München-West/Mitte,Direktwahl,
+11004038,Dr. Thomas Gebhart,1971-12-20,männlich,CDU/CSU,2021-10-26,2025-03-25,"Magister (Politikwissenschaft, Betriebswirtschaftslehre)",211.0,Südpfalz,Landesliste,
+11004427,Dr. Volker Ullrich,1975-10-14,männlich,CDU/CSU,2021-10-26,2025-03-25,"Jurist, Dipl.-Kaufmann",252.0,Augsburg-Stadt,Direktwahl,
+11004414,Dr. Wolfgang Stefinger,1985-04-20,männlich,CDU/CSU,2021-10-26,2025-03-25,Betriebswirt,218.0,München-Ost,Direktwahl,
+11005035,Dr. Yannick Bury,1990-03-11,männlich,CDU/CSU,2021-10-26,2025-03-25,Volkswirt,283.0,Emmendingen - Lahr,Direktwahl,
+11003865,Elisabeth Winkelmeier-Becker,1962-09-15,weiblich,CDU/CSU,2021-10-26,2025-03-25,Richterin,97.0,Rhein-Sieg-Kreis I,Direktwahl,
+11004452,Emmi Zeulner,1987-03-27,weiblich,CDU/CSU,2021-10-26,2025-03-25,Examinierte Gesundheits-und Krankenpflegerin,240.0,Kulmbach,Direktwahl,
+11003525,Enak Ferlemann,1963-07-12,männlich,CDU/CSU,2021-10-26,2025-03-25,Geschäftsführer,29.0,Cuxhaven - Stade II,Landesliste,
+11004311,Erich Irlstorfer,1970-05-27,männlich,CDU/CSU,2021-10-26,2025-03-25,Bürokaufmann,214.0,Freising,Direktwahl,
+11004139,Erwin Rüddel,1955-12-21,männlich,CDU/CSU,2021-10-26,2025-02-03,Diplom-Betriebswirt,197.0,Neuwied,Direktwahl,
+11005068,Fabian Gramling,1987-04-05,männlich,CDU/CSU,2021-10-26,2025-03-25,Bundestagsabgeordneter,266.0,Neckar-Zaber,Direktwahl,
+11004883,Felix Schreiner,1986-01-29,männlich,CDU/CSU,2021-10-26,2025-03-25,,288.0,Waldshut,Direktwahl,
+11004048,Florian Hahn,1974-03-14,männlich,CDU/CSU,2021-10-26,2025-03-25,MdB,221.0,München-Land,Direktwahl,
+11005160,Florian Müller,1987-09-14,männlich,CDU/CSU,2021-10-26,2025-03-25,Strategiereferent,149.0,Olpe - Märkischer Kreis I,Direktwahl,
+11004366,Florian Oßner,1980-07-05,männlich,CDU/CSU,2021-10-26,2025-03-25,MdB,228.0,Landshut,Direktwahl,
+11005087,Franziska Hoppermann,1982-01-08,weiblich,CDU/CSU,2021-10-26,2025-03-25,"Senatsdirektorin, Dipl.-Kauffrau",22.0,Hamburg-Wandsbek,Landesliste,
+11002735,Friedrich Merz,1955-11-11,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,147.0,Hochsauerlandkreis,Direktwahl,
+11004285,Fritz Güntzler,1966-05-06,männlich,CDU/CSU,2021-10-26,2025-03-25,"Wirtschaftsprüfer, Steuerberater",53.0,Göttingen,Landesliste,
+11003514,Gitta Connemann,1964-05-10,weiblich,CDU/CSU,2021-10-26,2025-03-25,"Verkäuferin, Volljuristin",25.0,Unterems,Direktwahl,
+11003573,Gunther Krichbaum,1964-05-04,männlich,CDU/CSU,2021-10-26,2025-03-25,Wirtschaftsjurist,279.0,Pforzheim,Direktwahl,
+11004915,Hans-Jürgen Thies,1955-08-11,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,146.0,Soest,Direktwahl,
+11004264,Hansjörg Durz,1971-07-29,männlich,CDU/CSU,2021-10-26,2025-03-25,"Dipl.-Kaufmann, Bankkaufmann",253.0,Augsburg-Land,Direktwahl,
+11004019,Heike Brehmer,1962-11-05,weiblich,CDU/CSU,2021-10-26,2025-03-25,Diplom-Betriebswirtin (FH),68.0,Harz,Direktwahl,
+11003821,Henning Otte,1968-10-27,männlich,CDU/CSU,2021-10-26,2025-03-25,,44.0,Celle - Uelzen,Direktwahl,
+11005184,Henning Rehbaum,1973-09-10,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Betriebswirt (FH),130.0,Warendorf,Direktwahl,
+11004269,Hermann Färber,1963-03-26,männlich,CDU/CSU,2021-10-26,2025-03-25,Landwirtschaftsmeister,263.0,Göppingen,Direktwahl,
+11002666,Hermann Gröhe,1961-02-25,männlich,CDU/CSU,2021-10-26,2025-03-25,"Bundesminister a. D., Rechtsanwalt",108.0,Neuss I,Direktwahl,groehe.bsky.social
+11000975,Hubert Hüppe,1956-11-03,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Verwaltungswirt,144.0,Unna I,Landesliste,
+11004036,Ingo Gädechens,1960-07-30,männlich,CDU/CSU,2021-10-26,2025-03-25,Berufssoldat a. D.,9.0,Ostholstein - Stormarn-Nord,Landesliste,
+11003658,Ingo Wellenreuther,1959-12-16,männlich,CDU/CSU,2024-06-10,2025-03-25,"Unternehmensberater, Vorsitzender Richter am Landgericht a. D.",271.0,Karlsruhe-Stadt,Landesliste,
+11004369,Ingrid Pahlmann,1957-12-01,weiblich,CDU/CSU,2024-01-02,2025-03-25,landliche Hauswirtschaftsleiterin,45.0,Gifhorn - Peine,Landesliste,
+11004352,Jan Metzler,1981-07-05,männlich,CDU/CSU,2021-10-26,2025-03-25,"Winzer, Dipl.-Betriebswirt (FH)",206.0,Worms,Direktwahl,
+11004398,Jana Schimke,1979-09-06,weiblich,CDU/CSU,2021-10-26,2025-03-25,Politikwissenschaftlerin,62.0,Dahme-Spreewald - Teltow-Fläming III - Oberspreewald-Lausitz I,Landesliste,
+11003789,Jens Koeppen,1962-09-27,männlich,CDU/CSU,2021-10-26,2025-03-25,"Elektromeister, Unternehmer",57.0,Uckermark - Barnim I,Landesliste,
+11004800,Jens Lehmann,1967-12-19,männlich,CDU/CSU,2021-10-26,2025-03-25,Erzieher,152.0,Leipzig I,Direktwahl,
+11003638,Jens Spahn,1980-05-16,männlich,CDU/CSU,2021-10-26,2025-03-25,Bankkaufmann,124.0,Steinfurt I - Borken I,Direktwahl,
+11004418,Johannes Steiniger,1987-06-18,männlich,CDU/CSU,2021-10-26,2025-03-25,"Gymnasiallehrer, MdB",208.0,Neustadt - Speyer,Direktwahl,
+11004845,Josef Oster,1971-01-04,männlich,CDU/CSU,2021-10-26,2025-03-25,"Dipl.-Verwaltungswirt (FH), Bürgermeister a. D.",199.0,Koblenz,Direktwahl,
+11004136,Josef Rief,1960-04-13,männlich,CDU/CSU,2021-10-26,2025-03-25,Landwirtschaftsmeister,292.0,Biberach,Direktwahl,
+11003566,Julia Klöckner,1972-12-16,weiblich,CDU/CSU,2021-10-26,2025-03-25,"Chefredakteurin, Bundesministerin a. D.",201.0,Kreuznach,Landesliste,
+11004050,Jürgen Hardt,1963-05-30,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Volkswirt,103.0,Solingen - Remscheid - Wuppertal II,Landesliste,
+11004443,Kai Whittaker,1985-04-10,männlich,CDU/CSU,2021-10-26,2025-03-25,Wirtschaftswissenschaftler M. Sc.,273.0,Rastatt,Direktwahl,
+11004901,Katrin Staffler,1981-11-04,weiblich,CDU/CSU,2021-10-26,2025-03-25,Biochemikerin,215.0,Fürstenfeldbruck,Direktwahl,
+11004382,Kerstin Radomski,1974-11-01,weiblich,CDU/CSU,2021-10-26,2025-03-25,Studienrätin,114.0,Krefeld II - Wesel II,Landesliste,
+11004924,Kerstin Vieregge,1976-09-06,weiblich,CDU/CSU,2021-10-26,2025-03-25,staatlich geprüfte Betriebswirtin,135.0,Lippe I,Landesliste,
+11005138,Klaus Mack,1973-04-28,männlich,CDU/CSU,2021-10-26,2025-03-25,"Dipl,-Verwaltungswirt (FH)",280.0,Calw,Direktwahl,
+11003264,Klaus-Peter Willsch,1961-02-28,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Volkswirt,178.0,Rheingau-Taunus - Limburg,Direktwahl,
+11005002,Knut Abraham,1966-06-04,männlich,CDU/CSU,2021-10-26,2025-03-25,Diplomat,65.0,Elbe-Elster - Oberspreewald-Lausitz II,Landesliste,
+11005190,Lars Rohwer,1972-02-01,männlich,CDU/CSU,2021-10-26,2025-03-25,Bankkaufmann,160.0,Dresden II - Bautzen II,Direktwahl,larsrohwer.bsky.social
+11002667,Manfred Grund,1955-07-03,männlich,CDU/CSU,2021-10-26,2025-03-25,Elektroingenieur,189.0,Eichsfeld - Nordhausen - Kyffhäuserkreis,Direktwahl,
+11004673,Marc Biadacz,1979-09-03,männlich,CDU/CSU,2021-10-26,2025-03-25,Sozialwissenschaftler,260.0,Böblingen,Direktwahl,
+11004744,Marc Henrichmann,1976-06-01,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,127.0,Coesfeld - Steinfurt II,Direktwahl,
+11003655,Marco Wanderwitz,1975-10-10,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,163.0,Chemnitzer Umland - Erzgebirgskreis II,Landesliste,
+11005263,Mareike Lotte Wulf,1979-11-15,weiblich,CDU/CSU,2021-10-26,2025-03-25,Verbandsgeschäftsführerin,46.0,Hameln-Pyrmont - Holzminden,Landesliste,
+11005037,Mario Czaja,1975-09-21,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Betriebswirt,85.0,Berlin-Marzahn-Hellersdorf,Direktwahl,
+11004298,Mark Helfrich,1978-09-08,männlich,CDU/CSU,2021-10-26,2025-03-25,Betriebswirt,3.0,Steinburg - Dithmarschen Süd,Direktwahl,
+11003542,Markus Grübel,1959-10-15,männlich,CDU/CSU,2021-10-26,2025-03-25,Notar,261.0,Esslingen,Direktwahl,
+11004331,Markus Koob,1977-12-05,männlich,CDU/CSU,2021-10-26,2025-03-25,,176.0,Hochtaunus,Direktwahl,
+11004645,Markus Uhl,1979-10-31,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Kaufmann,299.0,Homburg,Landesliste,
+11005052,Martina Englhardt-Kopf,1981-06-08,weiblich,CDU/CSU,2021-10-26,2025-03-25,Studiendirektorin a. D.,234.0,Schwandorf,Direktwahl,
+11004292,Matthias Hauer,1977-12-18,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,120.0,Essen III,Direktwahl,matthiashauer.bsky.social
+11002812,Max Straubinger,1954-08-12,männlich,CDU/CSU,2021-10-26,2025-03-25,Landwirtschaftsmeister,230.0,Rottal-Inn,Direktwahl,
+11005159,Maximilian Mörseburg,1992-03-22,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,259.0,Stuttgart II,Direktwahl,
+11004052,Mechthild Heil,1961-08-23,weiblich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Ing. Architektin,198.0,Ahrweiler,Direktwahl,
+11005261,Mechthilde Wittmann,1967-12-12,weiblich,CDU/CSU,2021-10-26,2025-03-25,Juristin,256.0,Oberallgäu,Direktwahl,
+11004670,Melanie Bernstein,1976-09-28,weiblich,CDU/CSU,2023-02-06,2025-03-25,Kulturwissenschaftlerin,6.0,Plön - Neumünster,Landesliste,
+11005222,Melis Sekmen,1993-09-26,weiblich,CDU/CSU,2024-07-09,2025-03-25,Studentin,275.0,Mannheim,Landesliste,
+11003742,Michael Brand,1973-11-19,männlich,CDU/CSU,2021-10-26,2025-03-25,"Angestellter, Pressesprecher",174.0,Fulda,Direktwahl,
+11005032,Michael Breilmann,1983-10-10,männlich,CDU/CSU,2021-10-26,2025-03-25,Volljurist,121.0,Recklinghausen I,Landesliste,
+11004262,Michael Donth,1967-06-08,männlich,CDU/CSU,2021-10-26,2025-03-25,Bürgermeister a. D.,289.0,Reutlingen,Direktwahl,
+11004034,Michael Frieser,1964-03-30,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,245.0,Nürnberg-Süd,Direktwahl,
+11003541,Michael Grosse-Brömer,1960-10-12,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt und Notar a. D.,36.0,Harburg,Landesliste,
+11004779,Michael Kießling,1973-05-29,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Bauingenieur (FH),224.0,Starnberg - Landsberg am Lech,Direktwahl,
+11005171,Moritz Oppelt,1989-02-04,männlich,CDU/CSU,2021-10-26,2025-03-25,Jurist,277.0,Rhein-Neckar,Direktwahl,
+11004116,Nadine Müller,1983-06-05,weiblich,CDU/CSU,2021-10-26,2025-03-25,Diplom-Juristin,,,Landesliste,
+11005266,Nicolas Zippelius,1987-08-01,männlich,CDU/CSU,2021-10-26,2025-03-25,MdB,272.0,Karlsruhe-Land,Direktwahl,zippelius.bsky.social
+11004437,Nina Warken,1979-05-15,weiblich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwältin,276.0,Odenwald - Tauber,Direktwahl,
+11004655,Norbert Maria Altenkamp,1972-07-27,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Volkswirt,181.0,Main-Taunus,Direktwahl,
+11003544,Olav Gutting,1970-10-14,männlich,CDU/CSU,2021-10-26,2025-03-25,"Rechtsanwalt, Fachanwalt für Erbrecht",278.0,Bruchsal - Schwetzingen,Direktwahl,
+11004283,Oliver Grundmann,1971-08-21,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,30.0,Stade I - Rotenburg II,Direktwahl,
+11003582,Patricia Lips,1963-12-21,weiblich,CDU/CSU,2021-10-26,2025-03-25,Handelsfachwirtin,187.0,Odenwald,Landesliste,
+11004146,Patrick Schnieder,1968-05-01,männlich,CDU/CSU,2021-10-26,2025-03-25,Bürgermeister a. D.,202.0,Bitburg,Direktwahl,
+11003799,Paul Lehrieder,1959-11-20,männlich,CDU/CSU,2021-10-26,2025-03-25,"Rechtsanwalt, Altbürgermeister",251.0,Würzburg,Direktwahl,
+11004938,Paul Ziemiak,1985-09-06,männlich,CDU/CSU,2021-10-26,2025-03-25,Generalsekretär der CDU NRW,150.0,Märkischer Kreis II,Direktwahl,
+11004004,Peter Aumer,1976-04-17,männlich,CDU/CSU,2021-10-26,2025-03-25,,233.0,Regensburg,Direktwahl,
+11004010,Peter Beyer,1970-12-25,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,105.0,Mettmann II,Direktwahl,
+11004841,Petra Nicolaisen,1965-12-12,weiblich,CDU/CSU,2021-10-26,2025-03-25,Industriekauffrau,1.0,Flensburg - Schleswig,Landesliste,
+11004656,Philipp Amthor,1992-11-10,männlich,CDU/CSU,2021-10-26,2025-03-25,Jurist,16.0,Mecklenburgische Seenplatte I - Vorpommern-Greifswald II,Landesliste,
+11003574,Prof. Dr. Günter Krings,1969-08-07,männlich,CDU/CSU,2021-10-26,2025-03-25,Jurist,109.0,Mönchengladbach,Direktwahl,
+11003510,Prof. Dr. Helge Braun,1972-10-18,männlich,CDU/CSU,2021-10-26,2025-03-25,Arzt,173.0,Gießen,Landesliste,helgebraun.bsky.social‬
+11003761,Prof. Monika Grütters,1962-01-09,weiblich,CDU/CSU,2021-10-26,2025-03-25,Literatur- und Kunsthistorikerin,77.0,Berlin-Reinickendorf,Direktwahl,
+11004021,Ralph Brinkhaus,1968-06-15,männlich,CDU/CSU,2021-10-26,2025-03-25,Steuerberater,131.0,Gütersloh I,Direktwahl,
+11005048,Ralph Edelhäußer,1973-03-22,männlich,CDU/CSU,2021-10-26,2025-03-25,"Bankkaufmann, Dipl.-Betriebswirt (FH)",246.0,Roth,Direktwahl,
+11004068,Roderich Kiesewetter,1963-09-11,männlich,CDU/CSU,2021-10-26,2025-03-25,Oberst a. D. / Diplom-Kaufmann (univ.),270.0,Aalen - Heidenheim,Direktwahl,rodki.bsky.social
+11004617,Ronja Schmitt,1989-05-03,weiblich,CDU/CSU,2021-10-26,2025-03-25,Volkswirtin,291.0,Ulm,Direktwahl,
+11004187,Sabine Weiss,1958-05-26,weiblich,CDU/CSU,2021-10-26,2025-03-25,"Rechtsanwältin, Bürgermeisterin a. D., Parl. Staatssekretärin",113.0,Wesel I,Landesliste,
+11004682,Sebastian Brehm,1971-10-18,männlich,CDU/CSU,2021-10-26,2025-03-25,Steuerberater,244.0,Nürnberg-Nord,Direktwahl,
+11004832,Sepp Müller,1989-01-22,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Bankbetriebswirt Frankfurt School of Finance and Management,70.0,Dessau - Wittenberg,Direktwahl,
+11005072,Serap Güler,1980-07-07,weiblich,CDU/CSU,2021-10-26,2025-03-25,Beamtin,101.0,Leverkusen - Köln IV,Landesliste,serapgueler.bsky.social
+11004681,Silvia Breher,1973-07-23,weiblich,CDU/CSU,2021-10-26,2025-03-25,Volljuristin,32.0,Cloppenburg - Vechta,Direktwahl,
+11005030,Simone Borchardt,1967-09-11,weiblich,CDU/CSU,2021-10-26,2025-03-25,Gesundheitsökonomin,13.0,Ludwigslust-Parchim II–Nordwestmecklenbg II–Landkr. RostockI,Landesliste,
+11004867,Stefan Rouenhoff,1978-12-23,männlich,CDU/CSU,2021-10-26,2025-03-25,,112.0,Kleve,Direktwahl,
+11004011,Steffen Bilger,1979-02-16,männlich,CDU/CSU,2021-10-26,2025-03-25,Volljurist,265.0,Ludwigsburg,Direktwahl,
+11004241,Stephan Albani,1968-06-03,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Physiker,27.0,Oldenburg - Ammerland,Landesliste,
+11003589,Stephan Mayer,1973-12-15,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,212.0,Altötting,Direktwahl,
+11004169,Stephan Stracke,1974-04-01,männlich,CDU/CSU,2021-10-26,2025-03-25,Volljurist,257.0,Ostallgäu,Direktwahl,
+11005085,Susanne Hierl,1973-09-29,weiblich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwältin,232.0,Amberg,Direktwahl,
+11003734,Thomas Bareiß,1975-02-15,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Betriebswirt,295.0,Zollernalb - Sigmaringen,Direktwahl,
+11004709,Thomas Erndl,1974-07-22,männlich,CDU/CSU,2021-10-26,2025-03-25,Dipl.-Ing. (FH) Elektrotechnik / Mikroelektronik,227.0,Deggendorf,Direktwahl,
+11004741,Thomas Heilmann,1964-07-16,männlich,CDU/CSU,2021-10-26,2025-03-25,Jurist,79.0,Berlin-Steglitz-Zehlendorf,Direktwahl,
+11004061,Thomas Jarzombek,1973-04-28,männlich,CDU/CSU,2021-10-26,2025-03-25,IT-Berater,106.0,Düsseldorf I,Direktwahl,
+11002754,Thomas Rachel,1962-05-17,männlich,CDU/CSU,2021-10-26,2025-03-25,Politikwissenschaftler,90.0,Düren,Direktwahl,
+11005193,Thomas Röwekamp,1966-09-18,männlich,CDU/CSU,2021-10-26,2025-03-25,"Rechtsanwalt, Notar",54.0,Bremen I,Landesliste,
+11003636,Thomas Silberhorn,1968-11-12,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,236.0,Bamberg,Direktwahl,
+11004276,Thorsten Frei,1973-08-08,männlich,CDU/CSU,2021-10-26,2025-03-25,"Jurist, Oberbürgermeister a. D.",286.0,Schwarzwald-Baar,Direktwahl,judithhopkins132.bsky.social
+11005118,Tilman Kuban,1987-05-26,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,47.0,Hannover-Land II,Landesliste,
+11004409,Tino Sorge,1975-03-04,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,69.0,Magdeburg,Landesliste,tinosorge.bsky.social
+11005258,Tobias Winkler,1978-01-16,männlich,CDU/CSU,2021-10-26,2025-03-25,Abgeordneter,243.0,Fürth,Direktwahl,
+11004087,Ulrich Lange,1969-06-06,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,254.0,Donau-Ries,Direktwahl,
+11004280,Ursula Groden-Kranich,1965-05-24,weiblich,CDU/CSU,2025-02-07,2025-03-25,Bankkauffrau,205.0,Mainz,Landesliste,
+11004271,Uwe Feiler,1965-11-02,männlich,CDU/CSU,2021-10-26,2025-03-25,Finanzwirt,58.0,Oberhavel - Havelland II,Landesliste,
+11005146,Volker Mayer-Lay,1981-06-22,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,293.0,Bodensee,Direktwahl,
+11004071,Volkmar Klein,1960-01-13,männlich,CDU/CSU,2021-10-26,2025-03-25,Diplom-Volkswirt,148.0,Siegen-Wittgenstein,Direktwahl,
+11004365,Wilfried Oellers,1975-09-16,männlich,CDU/CSU,2021-10-26,2025-03-25,Rechtsanwalt,89.0,Heinsberg,Direktwahl,
+11004346,Yvonne Magwas,1979-11-28,weiblich,CDU/CSU,2021-10-26,2025-03-25,"Vizepräsidentin DBT, Dipl.-Soziologin",166.0,Vogtlandkreis,Direktwahl,
+11004828,Alexander Müller,1969-07-17,männlich,FDP,2021-10-26,2025-03-25,"Dipl.-Informatiker, Berufspilot, Oberstleutnant d. R.",178.0,Rheingau-Taunus - Limburg,Landesliste,alexandermueller.bsky.social
+11005150,Anikó Merten,1982-03-25,weiblich,FDP,2021-10-26,2025-03-25,Kunstwissenschaftlerin,50.0,Braunschweig,Landesliste,anikoglogomerten.bsky.social
+11005216,Anja Schulz,1985-10-28,weiblich,FDP,2021-10-26,2025-03-25,Finanzberaterin,44.0,Celle - Uelzen,Landesliste,
+11004908,Benjamin Strasser,1987-02-09,männlich,FDP,2021-10-26,2025-03-25,Rechtsanwalt,294.0,Ravensburg,Landesliste,
+11004864,Bernd Reuther,1971-05-01,männlich,FDP,2021-10-26,2025-03-25,"Dipl.-Sozialwissenschaftler, Angestellter",113.0,Wesel I,Landesliste,
+11004902,Bettina Stark-Watzinger,1968-05-12,weiblich,FDP,2021-10-26,2025-03-25,Dipl.-Volkswirtin,181.0,Main-Taunus,Landesliste,
+11004029,Bijan Djir-Sarai,1976-06-06,männlich,FDP,2021-10-26,2025-03-25,Diplom-Kaufmann,108.0,Neuss I,Landesliste,djirsarai.bsky.social
+11004789,Carina Konrad,1982-09-19,weiblich,FDP,2021-10-26,2025-03-25,Landwirtin,200.0,Mosel/Rhein-Hunsrück,Landesliste,
+11004697,Carl-Julius Cronenberg,1962-07-30,männlich,FDP,2021-10-26,2025-03-25,Unternehmer,147.0,Hochsauerlandkreis,Landesliste,
+11005308,Christian Bartelt,1976-09-16,männlich,FDP,2023-09-04,2025-03-25,Zahnarzt,16.0,Mecklenburgische Seenplatte I - Vorpommern-Greifswald II,Landesliste,
+11004705,Christian Dürr,1977-04-18,männlich,FDP,2021-10-26,2025-03-25,Dipl.-Ökonom,28.0,Delmenhorst - Wesermarsch - Oldenburg-Land,Landesliste,christianduerr.bsky.social
+11004097,Christian Lindner,1979-01-07,männlich,FDP,2021-10-26,2025-03-25,Politikwissenschaftler,100.0,Rheinisch-Bergischer Kreis,Landesliste,
+11004871,Christian Sauter,1980-02-11,männlich,FDP,2021-10-26,2025-03-25,Dipl.-Wirtschaftsingenieur (FH),135.0,Lippe I,Landesliste,
+11004003,Christine Aschenberg-Dugnus,1959-09-22,weiblich,FDP,2021-10-26,2025-03-25,Rechtsanwältin,4.0,Rendsburg-Eckernförde,Landesliste,aschenbergdugnus.bsky.social
+11004820,Christoph Meyer,1975-08-30,männlich,FDP,2021-10-26,2025-03-25,Rechtsanwalt,80.0,Berlin-Charlottenburg-Wilmersdorf,Landesliste,
+11005273,Claudia Raffelhüschen,1968-11-07,weiblich,FDP,2021-10-26,2025-03-25,Dipl. Volkswirtin,281.0,Freiburg,Landesliste,
+11004716,Daniel Föst,1976-08-10,männlich,FDP,2021-10-26,2025-03-25,Selbstständiger Unternehmer,217.0,München-Nord,Landesliste,daniel-foest.de
+11004784,Daniela Kluckert,1980-12-22,weiblich,FDP,2021-10-26,2025-03-25,Dipl.-Volkswirtin,76.0,Berlin-Pankow,Landesliste,
+11005183,Dr. - Ing. Volker Redder,1959-06-07,männlich,FDP,2021-10-26,2025-03-25,Unternehmer,54.0,Bremen I,Landesliste,
+11005094,Dr. Ann-Veruschka Jurisch,1972-01-10,weiblich,FDP,2021-10-26,2025-03-25,Juristin,287.0,Konstanz,Landesliste,avjurisch.bsky.social‬
+11004757,Dr. Christoph Hoffmann,1957-12-09,männlich,FDP,2021-10-26,2025-03-25,"Forstwissenschaftler, Bürgermeister a. D.",282.0,Lörrach - Müllheim,Landesliste,
+11003856,Dr. Florian Toncar,1979-10-18,männlich,FDP,2021-10-26,2025-03-25,Rechtsanwalt,260.0,Böblingen,Landesliste,
+11004754,Dr. Gero Clemens Hocker,1975-06-30,männlich,FDP,2021-10-26,2025-03-25,"Bankkaufmann, Dipl.-Ökonom",34.0,Osterholz - Verden,Landesliste,
+11004676,Dr. Jens Brandenburg,1986-03-08,männlich,FDP,2021-10-26,2025-03-25,Unternehmensberater,277.0,Rhein-Neckar,Landesliste,
+11004786,Dr. Lukas Köhler,1986-08-20,männlich,FDP,2021-10-26,2025-03-25,Philosoph,220.0,München-West/Mitte,Landesliste,koehlerfdp.bsky.social‬
+11004023,Dr. Marco Buschmann,1977-08-01,männlich,FDP,2021-10-26,2025-03-25,Rechtsanwalt,123.0,Gelsenkirchen,Landesliste,
+11004712,Dr. Marcus Faber,1984-02-04,männlich,FDP,2021-10-26,2025-03-25,Politikwissenschaftler,66.0,Altmark,Landesliste,
+11004906,Dr. Marie-Agnes Strack-Zimmermann,1958-03-10,weiblich,FDP,2021-10-26,2024-07-15,"selbst. Verlagsrepräsentantin, Publizistin",106.0,Düsseldorf I,Landesliste,masz.bsky.social‬
+11005129,Dr. Thorsten Lieb,1973-01-03,männlich,FDP,2021-10-26,2025-03-25,Rechtsanwalt,183.0,Frankfurt am Main II,Landesliste,thorstenlieb.bsky.social‬
+11003702,Dr. Volker Wissing,1970-04-22,männlich,FDP,2021-10-26,2024-11-07,Rechtsanwalt,211.0,Südpfalz,Landesliste,
+11005316,Fabian Griewel,1997-02-02,männlich,FDP,2024-07-16,2025-03-25,"Geograph, Historiker",50.0,Braunschweig,Landesliste,
+11004834,Frank Müller-Rosentritt,1982-06-13,männlich,FDP,2021-10-26,2025-03-25,Dipl.-Betriebswirt,162.0,Chemnitz,Landesliste,
+11003834,Frank Schäffler,1968-12-22,männlich,FDP,2021-10-26,2025-03-25,Dipl.-Betriebswirt,134.0,Minden-Lübbecke I,Landesliste,
+11005028,Friedhelm Boginski,1955-11-07,männlich,FDP,2021-10-26,2025-03-25,Lehrer,57.0,Uckermark - Barnim I,Landesliste,
+11004923,Gerald Ullrich,1962-12-23,männlich,FDP,2021-10-26,2025-03-25,Ingenieur,196.0,Suhl - Schmalkalden-Meiningen - Hildburghausen - Sonneberg,Landesliste,
+11004941,Gyde Jensen,1989-08-14,weiblich,FDP,2021-10-26,2025-03-25,Politikwissenschaftlerin,2.0,Nordfriesland - Dithmarschen Nord,Landesliste,
+11005027,Ingo Bodtke,1965-06-06,männlich,FDP,2021-10-26,2025-03-25,Ingenieur Fleischwirtschaft,74.0,Mansfeld,Landesliste,
+11004666,Jens Beeck,1969-09-19,männlich,FDP,2021-10-26,2025-03-25,Rechtsanwalt,31.0,Mittelems,Landesliste,
+11005238,Jens Teutrine,1993-10-22,männlich,FDP,2021-10-26,2025-03-25,"Student, Seminarleiter für politische Bildung",133.0,Herford - Minden-Lübbecke II,Landesliste,
+11004179,Johannes Vogel,1982-04-29,männlich,FDP,2021-10-26,2025-03-25,Politikwissenschaftler,149.0,Olpe - Märkischer Kreis I,Landesliste,
+11004159,Judith Skudelny,1975-10-02,weiblich,FDP,2021-10-26,2025-03-25,Rechtsanwältin,258.0,Stuttgart I,Landesliste,
+11005317,Julian Grünke,1995-08-31,männlich,FDP,2024-09-02,2025-03-25,Politikwissenschaftler,290.0,Tübingen,Landesliste,
+11005125,Jürgen Lenders,1966-04-20,männlich,FDP,2021-10-26,2025-03-25,Kaufmann,174.0,Fulda,Landesliste,
+11004690,Karlheinz Busen,1951-04-05,männlich,FDP,2021-10-26,2025-03-25,Bauingenieur,126.0,Borken II,Landesliste,
+11004780,Karsten Klein,1977-12-02,männlich,FDP,2021-10-26,2025-03-25,Dipl.-Kaufmann,247.0,Aschaffenburg,Landesliste,
+11004783,Katharina Kloke,1987-02-19,weiblich,FDP,2023-08-07,2025-03-25,Rechtsanwältin,87.0,Aachen I,Landesliste,
+11005003,Katja Adler,1974-05-20,weiblich,FDP,2021-10-26,2025-03-25,Beamtin,176.0,Hochtaunus,Landesliste,
+11004750,Katja Hessel,1972-05-05,weiblich,FDP,2021-10-26,2025-03-25,"Rechtsanwältin, Steuerberaterin",244.0,Nürnberg-Nord,Landesliste,
+11004742,Katrin Helling-Plahr,1986-04-02,weiblich,FDP,2021-10-26,2025-03-25,Rechtsanwältin,138.0,Hagen - Ennepe-Ruhr-Kreis I,Landesliste,
+11005064,Knut Gerschau,1961-07-03,männlich,FDP,2021-10-26,2025-03-25,Geschäftsführer,42.0,Stadt Hannover II,Landesliste,
+11005234,Konrad Stockmeier,1977-05-03,männlich,FDP,2021-10-26,2025-03-25,Marktforscher,275.0,Mannheim,Landesliste,konradstockmeier.bsky.social
+11004796,Konstantin Kuhle,1989-02-11,männlich,FDP,2021-10-26,2025-03-25,Rechtsanwalt,53.0,Göttingen,Landesliste,konstantinkuhle.bsky.social
+11005136,Kristine Lütke,1982-06-29,weiblich,FDP,2021-10-26,2025-03-25,Pflegeunternehmerin,246.0,Roth,Landesliste,
+11004913,Linda Teuteberg,1981-04-22,weiblich,FDP,2021-10-26,2025-03-25,Rechtsanwältin,61.0,Potsdam - Potsdam-Mittelmark II - Teltow-Fläming II,Landesliste,
+11004222,Manfred Todtenhausen,1950-12-08,männlich,FDP,2021-10-26,2025-03-25,Elektroinstallateuermeister,102.0,Wuppertal I,Landesliste,
+11004057,Manuel Höferlin,1973-02-06,männlich,FDP,2021-10-26,2025-03-25,IT Unternehmer,206.0,Worms,Landesliste,
+11004677,Mario Brandenburg,1983-10-03,männlich,FDP,2021-10-26,2025-03-25,Wirtschaftsinformatiker,,,Landesliste,
+11004745,Markus Herbrand,1971-02-24,männlich,FDP,2021-10-26,2025-03-25,Steuerberater,92.0,Euskirchen - Rhein-Erft-Kreis II,Landesliste,
+11005061,Martin Gassner-Herz,1985-05-16,männlich,FDP,2021-10-26,2025-03-25,Verwaltungsangestellter,284.0,Offenburg,Landesliste,
+11004890,Matthias Seestern-Pauly,1984-02-28,männlich,FDP,2021-10-26,2025-03-25,Gymnasiallehrer,38.0,Osnabrück-Land,Landesliste,
+11005058,Maximilian Funke-Kaiser,1993-08-17,männlich,FDP,2021-10-26,2025-03-25,Betriebswirt,,,Landesliste,maxfksr.bsky.social
+11005158,Maximilian Mordhorst,1996-04-10,männlich,FDP,2021-10-26,2025-03-25,Student,5.0,Kiel,Landesliste,
+11005117,Michael Kruse,1983-12-30,männlich,FDP,2021-10-26,2025-03-25,Unternehmer,,,Landesliste,
+11003802,Michael Link,1963-02-06,männlich,FDP,2021-10-26,2025-03-25,Übersetzer,267.0,Heilbronn,Landesliste,
+11004914,Michael Theurer,1967-01-12,männlich,FDP,2021-10-26,2024-09-01,"Oberbürgermeister a. D., Dipl.-Volkswirt",271.0,Karlsruhe-Stadt,Landesliste,
+11005008,Muhanad Al-Halak,1989-07-31,männlich,FDP,2021-10-26,2025-03-25,Abwassermeister,227.0,Deggendorf,Landesliste,al-halak.bsky.social
+11005239,Nico Tippelt,1967-04-25,männlich,FDP,2021-10-26,2025-03-25,"Dipl.-Musikpädagoge, Fachkaufmann für Marketing und Vertrieb",165.0,Zwickau,Landesliste,
+11004661,Nicole Bauer,1987-03-19,weiblich,FDP,2021-10-26,2025-03-25,Wirtschaftsingenieurin,228.0,Landshut,Landesliste,nicolebauer.bsky.social
+11004931,Nicole Westig,1967-11-13,weiblich,FDP,2021-10-26,2025-03-25,Fundraiserin,98.0,Rhein-Sieg-Kreis II,Landesliste,
+11005299,Nils Gründer,1997-05-23,männlich,FDP,2022-08-02,2025-03-25,"Account Manager, Student",232.0,Amberg,Landesliste,
+11004667,Olaf In der Beek,1967-07-31,männlich,FDP,2021-10-26,2025-03-25,selbst. Unternehmer,140.0,Bochum I,Landesliste,olafinderbeek.bsky.social
+11004102,Oliver Luksic,1979-10-09,männlich,FDP,2021-10-26,2025-03-25,Unternehmensberater,298.0,St. Wendel,Landesliste,
+11003530,Otto Fricke,1965-11-21,männlich,FDP,2021-10-26,2025-03-25,Rechtsanwalt,110.0,Krefeld I - Neuss II,Landesliste,
+11004075,Pascal Kober,1971-07-03,männlich,FDP,2021-10-26,2025-03-25,Militärseelsorger,289.0,Reutlingen,Landesliste,
+11004948,Peter Heidt,1965-04-28,männlich,FDP,2021-10-26,2025-03-25,Rechtsanwalt,177.0,Wetterau I,Landesliste,
+11005075,Philipp Hartewig,1994-10-05,männlich,FDP,2021-10-26,2025-03-25,Jurist,161.0,Mittelsachsen,Landesliste,
+11004922,Prof. Dr. Andrew Ullmann,1963-01-02,männlich,FDP,2021-10-26,2025-03-25,Facharzt für Innere Medizin,251.0,Würzburg,Landesliste,aullmann.bsky.social‬
+11005220,Prof. Dr. Stephan Seiter,1963-03-18,männlich,FDP,2021-10-26,2025-03-25,Professor für Volkswirtschaftslehre,264.0,Waiblingen,Landesliste,stseiter.bsky.social‬
+11005223,Rainer Semet,1957-09-04,männlich,FDP,2021-10-26,2025-03-25,Dipl.-Wirtschaftsingenieur,279.0,Pforzheim,Landesliste,
+11004763,Reinhard Houben,1960-04-29,männlich,FDP,2021-10-26,2025-03-25,"Unternehmer, Dipl.-Kaufmann",93.0,Köln I,Landesliste,
+11004654,Renata Alt,1965-08-27,weiblich,FDP,2021-10-26,2025-03-25,Dipl.-Chemieingenieurin,262.0,Nürtingen,Landesliste,renataaltmdb.bsky.social
+11005215,Ria Schröder,1992-03-07,weiblich,FDP,2021-10-26,2025-03-25,Juristin,,,Landesliste,
+11004956,Sandra Bubendorfer-Licht,1969-09-05,weiblich,FDP,2021-10-26,2025-03-25,"Übersetzerin, Dolmetscherin",212.0,Altötting,Landesliste,
+11004929,Sandra Weeser,1969-09-08,weiblich,FDP,2021-10-26,2025-03-25,Betriebswirtin (VWA),197.0,Neuwied,Landesliste,
+11004175,Stephan Thomae,1968-06-19,männlich,FDP,2021-10-26,2025-03-25,Rechtsanwalt,256.0,Oberallgäu,Landesliste,
+11004734,Thomas Hacker,1967-10-09,männlich,FDP,2021-10-26,2025-03-25,Dipl.-Kaufmann,237.0,Bayreuth,Landesliste,
+11004815,Till Mansmann,1968-01-08,männlich,FDP,2021-10-26,2025-03-25,Redakteur,188.0,Bergstraße,Landesliste,
+11005309,Tim Wagner,1981-05-05,männlich,FDP,2024-01-01,2025-03-25,Vermögensberater,191.0,Jena - Sömmerda - Weimarer Land I,Landesliste,
+11004746,Torsten Herbst,1973-08-23,männlich,FDP,2021-10-26,2025-03-25,Dipl.-Kaufmann (FH),159.0,Dresden I,Landesliste,
+11004799,Ulrich Lechte,1977-08-26,männlich,FDP,2021-10-26,2025-03-25,Betriebswirt (VWA),233.0,Regensburg,Landesliste,
+11005076,Ulrike Harzer,1968-06-13,weiblich,FDP,2021-10-26,2025-03-25,Geschäftsführerin,164.0,Erzgebirgskreis I,Landesliste,
+11005001,Valentin Abel,1991-02-07,männlich,FDP,2021-10-26,2025-03-25,Kaufmännischer Angestellter,268.0,Schwäbisch Hall - Hohenlohe,Landesliste,
+11001235,Wolfgang Kubicki,1952-03-03,männlich,FDP,2021-10-26,2025-03-25,"Vizepräsident DBT, Rechtsanwalt, Dipl.-Volkswirt",3.0,Steinburg - Dithmarschen Süd,Landesliste,wolfgangkubicki1.bsky.social
+11004378,Achim Post,1959-05-02,männlich,SPD,2021-10-26,2025-03-25,Diplom-Soziologe,134.0,Minden-Lübbecke I,Direktwahl,achimpost.de
+11005005,Adis Ahmetović,1993-07-27,männlich,SPD,2021-10-26,2025-03-25,Referent für Regierungsplanung in der Nds. Staatskanzelei,41.0,Stadt Hannover I,Direktwahl,
+11005301,Alexander Bartz,1984-08-13,männlich,SPD,2022-11-08,2025-03-25,Betriebswirt,32.0,Cloppenburg - Vechta,Landesliste,
+11005122,Andreas Larem,1964-09-25,männlich,SPD,2021-10-26,2025-03-25,Groß- und Außenhandelskaufmann,186.0,Darmstadt,Direktwahl,andreaslarem.bsky.social
+11005147,Andreas Mehltretter,1991-12-10,männlich,SPD,2021-10-26,2025-03-25,Volkswirt,214.0,Freising,Landesliste,
+11004387,Andreas Rimkus,1962-12-24,männlich,SPD,2021-10-26,2025-03-25,Elektromeister in der Energiewirtschaft,107.0,Düsseldorf II,Direktwahl,arimkus.bsky.social
+11004407,Andreas Schwarz,1965-03-03,männlich,SPD,2021-10-26,2025-03-25,Betriebswirt,236.0,Bamberg,Landesliste,schwarzmdb.bsky.social
+11003162,Anette Kramme,1967-10-10,weiblich,SPD,2021-10-26,2025-03-25,"Rechtsanwältin, Fachanwältin für Arbeitsrecht",237.0,Bayreuth,Landesliste,
+11005313,Angela Hohmann,1963-04-10,weiblich,SPD,2024-03-05,2025-03-25,Sozialversicherungsfachangestellte,,,Landesliste,
+11004614,Angelika Glöckner,1962-02-05,weiblich,SPD,2021-10-26,2025-03-25,"Verwaltungsfachwirtin, Betriebswirtin",210.0,Pirmasens,Direktwahl,
+11005240,Anja Troff-Schaffarzyk,1969-10-01,weiblich,SPD,2021-10-26,2025-03-25,Dipl.-Pädagogin,25.0,Unterems,Landesliste,anjatroff.bsky.social
+11005081,Anke Hennig,1964-10-07,weiblich,SPD,2021-10-26,2025-03-25,qualif. Kindertagespflegeperson,38.0,Osnabrück-Land,Landesliste,
+11005098,Anna Kassautzki,1993-12-25,weiblich,SPD,2021-10-26,2025-03-25,Staatswissenschaftlerin,15.0,Vorpommern-Rügen - Vorpommern-Greifswald I,Direktwahl,
+11005108,Annika Klose,1992-06-24,weiblich,SPD,2021-10-26,2025-03-25,Sozialwissenschaftlerin,75.0,Berlin-Mitte,Landesliste,anniklose.bsky.social
+11005054,Ariane Fäscher,1968-03-01,weiblich,SPD,2021-10-26,2025-03-25,Publizistin/Pressesprecherin,58.0,Oberhavel - Havelland II,Direktwahl,
+11005267,Armand Zorn,1988-07-18,männlich,SPD,2021-10-26,2025-03-25,Unternehmensberater,182.0,Frankfurt am Main I,Direktwahl,
+11005046,Axel Echeverria,1980-03-19,männlich,SPD,2021-10-26,2025-03-25,Angestellter,139.0,Ennepe-Ruhr-Kreis II,Direktwahl,axelecheverria.bsky.social
+11003624,Axel Schäfer,1952-08-03,männlich,SPD,2021-10-26,2025-03-25,Generalsekretär der Europäischen Bewegung Deutschland,140.0,Bochum I,Direktwahl,
+11004124,Aydan Özoğuz,1967-05-31,weiblich,SPD,2021-10-26,2025-03-25,"Wissenschaftliche Mitarbeiterin, Körber Stiftung",22.0,Hamburg-Wandsbek,Direktwahl,
+11005024,Bengt Bergt,1982-05-07,männlich,SPD,2021-10-26,2025-03-25,"Technischer Übersetzer, Redakteur",8.0,Segeberg - Stormarn-Mitte,Direktwahl,
+11004392,Bernd Rützel,1968-10-02,männlich,SPD,2021-10-26,2025-03-25,Maschinenschlosser,249.0,Main-Spessart,Landesliste,
+11004442,Bernd Westphal,1960-09-30,männlich,SPD,2021-10-26,2025-03-25,"Gewerkschaftssekretär, Chemielaborant",48.0,Hildesheim,Direktwahl,
+11004258,Bernhard Daldrup,1956-06-01,männlich,SPD,2021-10-26,2025-03-25,Politikwissenschaftler (M.A.),130.0,Warendorf,Landesliste,
+11003545,Bettina Hagedorn,1955-12-26,weiblich,SPD,2021-10-26,2025-03-25,Goldschmiedin,9.0,Ostholstein - Stormarn-Nord,Direktwahl,
+11005135,Bettina Lugk,1982-02-03,weiblich,SPD,2021-10-26,2025-03-25,"Geowissenschaftlerin, Verwaltungsfachwirtin",150.0,Märkischer Kreis II,Landesliste,
+11004358,Bettina Müller,1959-06-07,weiblich,SPD,2021-10-26,2025-03-25,"Rechtsanwältin, Krankenschwester",175.0,Main-Kinzig - Wetterau II - Schotten,Direktwahl,
+11005168,Brian Nickholz,1989-12-22,männlich,SPD,2021-10-26,2025-03-25,Industriekaufmann,122.0,Recklinghausen II,Direktwahl,nickholz.bsky.social
+11004006,Bärbel Bas,1968-05-03,weiblich,SPD,2021-10-26,2025-03-25,Personalmanagement-Ökonomin (VWA),115.0,Duisburg I,Direktwahl,
+11005097,Carlos Kasper,1994-09-03,männlich,SPD,2021-10-26,2025-03-25,Zollbeamter,163.0,Chemnitzer Umland - Erzgebirgskreis II,Landesliste,carloskasper.bsky.social
+11005251,Carmen Wegge,1989-09-24,weiblich,SPD,2021-10-26,2025-03-25,Juristin,224.0,Starnberg - Landsberg am Lech,Landesliste,carmenwegge.bsky.social
+11003218,Carsten Schneider,1976-01-23,männlich,SPD,2021-10-26,2025-03-25,Bankkaufmann,193.0,Erfurt - Weimar - Weimarer Land II,Direktwahl,
+11004426,Carsten Träger,1973-10-25,männlich,SPD,2021-10-26,2025-03-25,"sebst. Werbeberater, Koordinator Kommunikation Sparkasse Fürth",243.0,Fürth,Landesliste,
+11004605,Christian Petry,1965-03-15,männlich,SPD,2021-10-26,2025-03-25,Dipl. Verwaltungswirt,298.0,St. Wendel,Direktwahl,
+11005213,Christian Schreider,1971-12-22,männlich,SPD,2021-10-26,2025-03-25,Jurist,207.0,Ludwigshafen/Frankenthal,Direktwahl,
+11005208,Christoph Schmid,1976-07-08,männlich,SPD,2021-10-26,2025-03-25,"Politikwissenschaftler, Bürgermeister a. D.",254.0,Donau-Ries,Landesliste,
+11004825,Claudia Moll,1968-12-15,weiblich,SPD,2021-10-26,2025-03-25,Examinierte Altenpflegerin,88.0,Aachen II,Direktwahl,
+11004423,Claudia Tausend,1964-07-22,weiblich,SPD,2021-10-26,2025-03-25,Diplom-Geographin,218.0,München-Ost,Landesliste,
+11005009,Dagmar Andres,1969-12-03,weiblich,SPD,2021-10-26,2025-03-25,"Bilanzbuchhalterin, Steuerfachangestellte, Betribswirtin",92.0,Euskirchen - Rhein-Erft-Kreis II,Landesliste,
+11004401,Dagmar Schmidt,1973-03-13,weiblich,SPD,2021-10-26,2025-03-25,Historikerin,172.0,Lahn-Dill,Direktwahl,dagmarschmidt.de
+11005015,Daniel Baldy,1994-09-25,männlich,SPD,2021-10-26,2025-03-25,Lehrer,205.0,Mainz,Direktwahl,daniel-baldy.bsky.social
+11005300,Daniel Rinkert,1987-12-11,männlich,SPD,2022-09-30,2025-03-25,Jurist,108.0,Neuss I,Landesliste,
+11005211,Daniel Schneider,1976-12-11,männlich,SPD,2021-10-26,2025-03-25,"Kulturveranstalter, Unternehmer",29.0,Cuxhaven - Stade II,Direktwahl,
+11004388,Dennis Rohde,1986-06-24,männlich,SPD,2021-10-26,2025-03-25,Rechtsanwalt,27.0,Oldenburg - Ammerland,Direktwahl,tomschroeder93.bsky.social
+11005241,Derya Türk-Nachbaur,1973-04-10,weiblich,SPD,2021-10-26,2025-03-25,Versicherungsfachfrau,286.0,Schwarzwald-Baar,Landesliste,deryatuerknachbaur.bsky.social
+11003816,Detlef Müller,1964-08-20,männlich,SPD,2021-10-26,2025-03-25,Lokomotivführer,162.0,Chemnitz,Direktwahl,tonyachasejjxh.bsky.social
+11003199,Dietmar Nietan,1964-05-25,männlich,SPD,2021-10-26,2025-03-25,Angestellter,90.0,Düren,Landesliste,
+11004295,Dirk Heidenblut,1961-04-21,männlich,SPD,2021-10-26,2025-03-25,Geschäftsführer,119.0,Essen II,Direktwahl,dhmdb.bsky.social
+11004433,Dirk Vöpel,1971-05-29,männlich,SPD,2021-10-26,2025-03-25,Selbstständiger Kaufmann,117.0,Oberhausen - Wesel III,Direktwahl,
+11004444,Dirk Wiese,1983-07-11,männlich,SPD,2021-10-26,2025-03-25,Jurist,147.0,Hochsauerlandkreis,Landesliste,
+11005303,Dirk-Ulrich Mende,1957-12-26,männlich,SPD,2023-01-25,2025-03-25,Volljurist / Geschäftsführer,44.0,Celle - Uelzen,Landesliste,
+11004959,Dorothee Martin,1978-01-21,weiblich,SPD,2021-10-26,2025-03-25,Dipl.-Politologin,21.0,Hamburg-Nord,Direktwahl,
+11003710,Dr. Bärbel Kofler,1967-05-24,weiblich,SPD,2021-10-26,2025-03-25,"Bankkauffrau, Diplom-Informatikerin (FH), Sprachwissenschaftlerin",225.0,Traunstein,Landesliste,baerbelkofler.bsky.social‬
+11005247,Dr. Carolin Wagner,1982-10-01,weiblich,SPD,2021-10-26,2025-03-25,Referatsleiterin,233.0,Regensburg,Landesliste,
+11005174,Dr. Christos Pantazis,1975-10-09,männlich,SPD,2021-10-26,2025-03-25,Arzt,50.0,Braunschweig,Direktwahl,
+11004386,Dr. Daniela De Ridder,1962-11-27,weiblich,SPD,2022-06-03,2025-03-25,Unternehmensberaterin,31.0,Mittelems,Landesliste,
+11004033,Dr. Edgar Franke,1960-01-21,männlich,SPD,2021-10-26,2025-03-25,"Bürgermeister a. D., Jurist",170.0,Schwalm-Eder,Direktwahl,
+11005103,Dr. Franziska Kersten,1968-12-19,weiblich,SPD,2021-10-26,2025-03-25,Tierärztin,67.0,Börde - Jerichower Land,Direktwahl,franziskakersten.bsky.social‬
+11005262,Dr. Herbert Wollmann,1951-01-14,männlich,SPD,2021-10-26,2025-03-25,Arzt,66.0,Altmark,Direktwahl,
+11005021,Dr. Holger Becker,1964-07-15,männlich,SPD,2021-10-26,2025-03-25,"Physiker, wissenschaftlicher Leiter",191.0,Jena - Sömmerda - Weimarer Land I,Direktwahl,
+11004603,Dr. Jens Zimmermann,1981-09-09,männlich,SPD,2021-10-26,2025-03-25,Diplom-Kaufmann,187.0,Odenwald,Direktwahl,jens-zimmermann.org‬
+11004950,Dr. Joe Weingarten,1962-03-17,männlich,SPD,2021-10-26,2025-03-25,Dipl.-Verwaltungswissenschaftler,201.0,Kreuznach,Direktwahl,drjoe.bsky.social
+11004270,Dr. Johannes Fechner,1972-11-25,männlich,SPD,2021-10-26,2025-03-25,Rechtsanwalt,283.0,Emmendingen - Lahr,Landesliste,
+11004259,Dr. Karamba Diaby,1961-11-27,männlich,SPD,2021-10-26,2025-03-25,"Chemiker, Geologe",72.0,Halle,Direktwahl,
+11005107,Dr. Kristian Klinck,1979-04-19,männlich,SPD,2021-10-26,2025-03-25,"Politikwissenschaftler, Studienrat",6.0,Plön - Neumünster,Direktwahl,
+11005221,Dr. Lina Seitzl,1989-06-03,weiblich,SPD,2021-10-26,2025-03-25,Politikwissenschaftlerin,287.0,Konstanz,Landesliste,linaseitzl.bsky.social‬
+11004389,Dr. Martin Rosemann,1976-10-20,männlich,SPD,2021-10-26,2025-03-25,Diplom-Volkswirt,290.0,Tübingen,Landesliste,
+11003809,Dr. Matthias Miersch,1968-12-19,männlich,SPD,2021-10-26,2025-03-25,Rechtsanwalt,47.0,Hannover-Land II,Direktwahl,
+11004876,Dr. Nils Schmid,1973-07-11,männlich,SPD,2021-10-26,2025-03-25,"Jurist, Minister a. D.",262.0,Nürtingen,Landesliste,
+11004396,Dr. Nina Scheer,1971-09-11,weiblich,SPD,2021-10-26,2025-03-25,"Juristin, Politikwissenschaftlerin, Musikerin",10.0,Herzogtum Lauenburg - Stormarn-Süd,Direktwahl,nina-scheer.de
+11005229,Dr. Ralf Stegner,1959-10-02,männlich,SPD,2021-10-26,2025-03-25,Politikwissenschaftler,7.0,Pinneberg,Direktwahl,ralfstegner.bsky.social‬
+11003599,Dr. Rolf Mützenich,1959-06-25,männlich,SPD,2021-10-26,2025-03-25,Dipl.-Politikwissenschaftler,95.0,Köln III,Direktwahl,
+11005137,Dr. Tanja Machalet,1974-05-01,weiblich,SPD,2021-10-26,2025-03-25,"Bankkauffrau, Dipl.-Volkswirtin",204.0,Montabaur,Direktwahl,
+11005194,Dr. Thorsten Rudolph,1974-03-15,männlich,SPD,2021-10-26,2025-03-25,Beamter,199.0,Koblenz,Landesliste,
+11004710,Dr. Wiebke Esdar,1984-02-11,weiblich,SPD,2021-10-26,2025-03-25,Dipl.-Psychologin,132.0,Bielefeld - Gütersloh II,Direktwahl,
+11005142,Dr. Zanda Martens,1984-10-01,weiblich,SPD,2021-10-26,2025-03-25,Gewerkschaftssekretärin,106.0,Düsseldorf I,Landesliste,zandamartens.bsky.social‬
+11005115,Dunja Kreiser,1971-06-27,weiblich,SPD,2021-10-26,2025-03-25,Abwassermeisterin,49.0,Salzgitter - Wolfenbüttel,Direktwahl,
+11004771,Elisabeth Kaiser,1987-03-04,weiblich,SPD,2021-10-26,2025-03-25,Politik- und Verwaltungswissenschaftlerin,194.0,Gera - Greiz - Altenburger Land,Landesliste,elisabethkaiser.bsky.social
+11005302,Emily Vontz,2000-10-15,weiblich,SPD,2023-01-01,2025-03-25,Studentin,,,Landesliste,
+11005139,Erik Malottki,1986-04-01,männlich,SPD,2021-10-26,2025-03-25,Gewerkschafter,16.0,Mecklenburgische Seenplatte I - Vorpommern-Greifswald II,Direktwahl,erikvonmalottki.bsky.social
+11005131,Esra Limbacher,1989-05-01,männlich,SPD,2021-10-26,2025-03-25,Volljurist,299.0,Homburg,Direktwahl,esralimbacher.bsky.social
+11004701,Esther Dilcher,1965-09-18,weiblich,SPD,2021-10-26,2025-03-25,"Rechtsanwältin, Notarin",167.0,Waldeck,Direktwahl,
+11005057,Fabian Funke,1997-07-25,männlich,SPD,2021-10-26,2025-03-25,Internationale Beziehungen (B. A.),158.0,Sächsische Schweiz-Osterzgebirge,Landesliste,funkefabian.bsky.social
+11005044,Falko Droßmann,1973-12-11,männlich,SPD,2021-10-26,2025-03-25,Soldat,18.0,Hamburg-Mitte,Direktwahl,
+11005043,Felix Döring,1991-02-23,männlich,SPD,2021-10-26,2025-03-25,Lehrer,173.0,Gießen,Direktwahl,
+11004317,Frank Junge,1967-05-05,männlich,SPD,2021-10-26,2025-03-25,Dipl.-Sportlehrer,13.0,Ludwigslust-Parchim II–Nordwestmecklenbg II–Landkr. RostockI,Direktwahl,
+11003846,Frank Schwabe,1970-11-12,männlich,SPD,2021-10-26,2025-03-25,,121.0,Recklinghausen I,Direktwahl,frankschwabe.bsky.social
+11005243,Frank Ullrich,1958-01-24,männlich,SPD,2021-10-26,2025-03-25,Dipl.-Sportlehrer (Trainer),196.0,Suhl - Schmalkalden-Meiningen - Hildburghausen - Sonneberg,Direktwahl,
+11005144,Franziska Mascheck,1979-02-04,weiblich,SPD,2021-10-26,2025-03-25,M.A. Soziale Arbeit,154.0,Leipzig-Land,Landesliste,
+11005077,Frauke Heiligenstadt,1966-03-24,weiblich,SPD,2021-10-26,2025-03-25,Dipl.-Verwaltungswirtin FH,52.0,Goslar - Northeim - Osterode,Direktwahl,fheiligenstadt.bsky.social
+11004296,Gabriela Heinrich,1963-04-18,weiblich,SPD,2021-10-26,2025-03-25,Redakteurin,244.0,Nürnberg-Nord,Landesliste,
+11004325,Gabriele Katzmarek,1960-07-08,weiblich,SPD,2021-10-26,2025-03-25,Gewerkschaftssekretärin,273.0,Rastatt,Landesliste,
+11004448,Gülistan Yüksel,1962-03-27,weiblich,SPD,2021-10-26,2025-03-25,Pharmazeutisch-kaufmännische Assistentin,109.0,Mönchengladbach,Landesliste,
+11005038,Hakan Demir,1984-11-16,männlich,SPD,2021-10-26,2025-03-25,,82.0,Berlin-Neukölln,Direktwahl,
+11005250,Hannes Walter,1984-03-02,männlich,SPD,2021-10-26,2025-03-25,"KFZ-Mechaniker, Betriebswirt",65.0,Elbe-Elster - Oberspreewald-Lausitz II,Direktwahl,
+11004244,Heike Baehrens,1955-09-21,weiblich,SPD,2021-10-26,2025-03-25,"Bankkauffrau, Diplom-Religionspädagogin, Geschäftsführerin",263.0,Göppingen,Landesliste,
+11005051,Heike Engelhardt,1961-06-05,weiblich,SPD,2021-10-26,2025-03-25,Redakteurin,294.0,Ravensburg,Landesliste,
+11005314,Heike Heubach,1979-12-14,weiblich,SPD,2024-03-20,2025-03-25,Industriekauffrau,253.0,Augsburg-Land,Landesliste,
+11004802,Helge Lindh,1976-12-06,männlich,SPD,2021-10-26,2025-03-25,,102.0,Wuppertal I,Direktwahl,helgelindh.bsky.social
+11005105,Helmut Kleebank,1964-11-18,männlich,SPD,2021-10-26,2025-03-25,"Krankenpfleger, Lehrer, Bezirksbürgermeister i. R.",78.0,Berlin-Spandau - Charlottenburg Nord,Direktwahl,
+11005140,Holger Mann,1979-02-19,männlich,SPD,2021-10-26,2025-03-25,Politikwissenschaftler,152.0,Leipzig I,Landesliste,
+11003142,Hubertus Heil,1972-11-03,männlich,SPD,2021-10-26,2025-03-25,"Politikwissenschaftler, Bundesminister",45.0,Gifhorn - Peine,Direktwahl,
+11005199,Ingo Schäfer,1965-09-20,männlich,SPD,2021-10-26,2025-03-25,Feuerwehrmann,103.0,Solingen - Remscheid - Wuppertal II,Direktwahl,
+11005036,Isabel Cademartori Dujisin,1988-01-09,weiblich,SPD,2021-10-26,2025-03-25,Wirtschaftspädagogin,275.0,Mannheim,Direktwahl,
+11004949,Isabel Mackensen,1986-09-29,weiblich,SPD,2021-10-26,2025-03-25,Politikwissenschaftlerin,208.0,Neustadt - Speyer,Landesliste,
+11005025,Jakob Blankenburg,1997-08-05,männlich,SPD,2021-10-26,2025-03-25,Politikwissenschaftler,37.0,Lüchow-Dannenberg - Lüneburg,Direktwahl,
+11005041,Jan Dieren,1991-07-29,männlich,SPD,2021-10-26,2025-03-25,Rechtsanwalt,114.0,Krefeld II - Wesel II,Direktwahl,jandieren.bsky.social
+11005181,Jan Plobner,1992-03-26,männlich,SPD,2021-10-26,2025-03-25,Standesbeamter,246.0,Roth,Landesliste,
+11005088,Jasmina Hostert,1982-12-03,weiblich,SPD,2021-10-26,2025-03-25,Politikwissenschaftlerin,260.0,Böblingen,Landesliste,
+11005178,Jens Peick,1981-08-16,männlich,SPD,2021-10-26,2025-03-25,Dipl.-Verwaltungswirt (FH),142.0,Dortmund I,Direktwahl,jenspeick.bsky.social
+11005192,Jessica Rosenthal,1992-10-28,weiblich,SPD,2021-10-26,2025-03-25,Gesamtschullehrerin,96.0,Bonn,Landesliste,
+11004393,Johann Saathoff,1967-12-09,männlich,SPD,2021-10-26,2025-03-25,Diplom-Verwaltungswirt (FH),24.0,Aurich - Emden,Direktwahl,johann-saathoff.bsky.social
+11005010,Johannes Arlt,1984-04-23,männlich,SPD,2021-10-26,2025-03-25,Offizier,17.0,Mecklenburgische Seenplatte II - Landkreis Rostock III,Direktwahl,
+11004881,Johannes Schraps,1983-08-17,männlich,SPD,2021-10-26,2025-03-25,Politikwissenschaftler,46.0,Hameln-Pyrmont - Holzminden,Direktwahl,johannesschraps.bsky.social
+11005204,Johannes Schätzl,1993-06-10,männlich,SPD,2021-10-26,2025-03-25,Informatiker / Datenanlyse,229.0,Passau,Landesliste,johannesschaetzl.bsky.social
+11004844,Josephine Ortleb,1986-11-25,weiblich,SPD,2021-10-26,2025-03-25,Fachwirtin in der Gastronomie,296.0,Saarbrücken,Direktwahl,josephine-ortleb.de
+11003782,Josip Juratovic,1959-01-15,männlich,SPD,2021-10-26,2025-03-25,KfZ Mechaniker,267.0,Heilbronn,Landesliste,
+11005169,Jörg Nürnberger,1967-04-17,männlich,SPD,2021-10-26,2025-03-25,Rechtsanwalt,239.0,Hof,Landesliste,
+11005023,Jürgen Berghahn,1960-07-05,männlich,SPD,2021-10-26,2025-03-25,"Elektroinstallateur, Bildungsreferent",135.0,Lippe I,Direktwahl,
+11004639,Jürgen Coße,1969-08-16,männlich,SPD,2021-10-26,2025-03-25,Arbeitsvermittler,128.0,Steinfurt III,Landesliste,juergencosse.bsky.social
+11005153,Kathrin Michel,1963-04-17,weiblich,SPD,2021-10-26,2025-03-25,Industriekauffrau,156.0,Bautzen I,Landesliste,kthrn-mchl-spd.bsky.social
+11003804,Katja Mast,1971-02-04,weiblich,SPD,2021-10-26,2025-03-25,"MdB, Bankkauffrau",279.0,Pforzheim,Landesliste,katjamast.bsky.social
+11004686,Katrin Budde,1965-04-13,weiblich,SPD,2021-10-26,2025-03-25,Dipl.-Ing. für Arbeitsgestaltung,74.0,Mansfeld,Landesliste,
+11005268,Katrin Zschau,1976-06-09,weiblich,SPD,2021-10-26,2025-03-25,Landesgeschäftsführerin Gewerkschaft,14.0,Rostock - Landkreis Rostock II,Direktwahl,
+11003440,Kerstin Griese,1966-12-06,weiblich,SPD,2021-10-26,2025-03-25,Historikerin,105.0,Mettmann II,Landesliste,
+11005119,Kevin Kühnert,1989-07-01,männlich,SPD,2021-10-26,2025-03-25,Angestellter,81.0,Berlin-Tempelhof-Schöneberg,Direktwahl,kuehnikev.bsky.social
+11005124,Kevin Leiser,1993-09-03,männlich,SPD,2021-10-26,2025-03-25,Lehrer,268.0,Schwäbisch Hall - Hohenlohe,Landesliste,
+11003715,Lars Klingbeil,1978-02-23,männlich,SPD,2021-10-26,2025-03-25,Politikwissenschaftler,35.0,Rotenburg I - Heidekreis,Direktwahl,larsklingbeil.bsky.social
+11005256,Lena Werner,1994-10-08,weiblich,SPD,2021-10-26,2025-03-25,Hotelfachfrau / Projektmanagerin,202.0,Bitburg,Landesliste,
+11004683,Leni Breymaier,1960-04-26,weiblich,SPD,2021-10-26,2025-03-25,Einzelhandelskauffrau,270.0,Aalen - Heidenheim,Landesliste,
+11005170,Lennard Oehl,1993-06-01,männlich,SPD,2021-10-26,2025-03-25,Volkswirt,180.0,Hanau,Direktwahl,
+11005318,Lucia Schanbacher,1989-11-12,weiblich,SPD,2025-01-01,2025-03-25,"Wissenschaftliche Mitarbeiterin, Pressereferentin",258.0,Stuttgart I,Landesliste,
+11005128,Luiza Licina-Bode,1972-10-10,weiblich,SPD,2021-10-26,2025-03-25,Volljuristin,148.0,Siegen-Wittgenstein,Landesliste,
+11005096,Macit Karaahmetoğlu,1968-07-11,männlich,SPD,2021-10-26,2025-03-25,"Rechtsanwalt, Fachanwalt für Urheber- und Medienrecht",265.0,Ludwigsburg,Landesliste,
+11004368,Mahmut Özdemir,1987-06-23,männlich,SPD,2021-10-26,2025-03-25,Rechtsreferendar (beurlaubt),116.0,Duisburg II,Direktwahl,
+11005249,Maja Wallstein,1986-03-18,weiblich,SPD,2021-10-26,2025-03-25,Wissenschaftsmanagerin,64.0,Cottbus - Spree-Neiße,Direktwahl,
+11005062,Manuel Gava,1991-02-20,männlich,SPD,2021-10-26,2025-03-25,Vertriebsleiter,39.0,Stadt Osnabrück,Direktwahl,
+11003838,Marianne Schieder,1962-05-23,weiblich,SPD,2021-10-26,2025-03-25,Juristin,234.0,Schwandorf,Landesliste,
+11004942,Marja-Liisa Völlers,1984-09-28,weiblich,SPD,2021-10-26,2025-03-25,Lehrerin,40.0,Nienburg II - Schaumburg,Direktwahl,
+11005090,Markus Hümpfer,1992-03-17,männlich,SPD,2021-10-26,2025-03-25,Ingenieur,250.0,Schweinfurt,Landesliste,markushuempfer.bsky.social
+11004921,Markus Töns,1964-01-01,männlich,SPD,2021-10-26,2025-03-25,Politologe,123.0,Gelsenkirchen,Direktwahl,
+11005040,Martin Diedenhofen,1995-02-05,männlich,SPD,2021-10-26,2025-03-25,Student,197.0,Neuwied,Landesliste,
+11003758,Martin Gerster,1971-08-30,männlich,SPD,2021-10-26,2025-03-25,"Politikwissenschaftler, Redakteur",292.0,Biberach,Landesliste,
+11005116,Martin Kröber,1992-02-12,männlich,SPD,2021-10-26,2025-03-25,Geschäftsstellenleiter,69.0,Magdeburg,Direktwahl,
+11004381,Martin Rabanus,1971-09-02,männlich,SPD,2024-01-26,2025-03-25,Ministerialrat,178.0,Rheingau-Taunus - Limburg,Landesliste,
+11004413,Martina Stamm-Fibich,1965-04-23,weiblich,SPD,2021-10-26,2025-03-25,"Marketing- und Kommunikationsmanagerin, Betriebsrätin",242.0,Erlangen,Landesliste,stamm-fibich.bsky.social
+11005176,Mathias Papendieck,1982-02-18,männlich,SPD,2021-10-26,2025-03-25,Informatiker,63.0,Frankfurt (Oder) - Oder-Spree,Direktwahl,
+11004904,Mathias Stein,1970-02-21,männlich,SPD,2021-10-26,2025-03-25,"Bautechniker, Wasserbauer",5.0,Kiel,Direktwahl,mathiasstein.bsky.social
+11005154,Matthias David Mieves,1985-12-30,männlich,SPD,2021-10-26,2025-03-25,Dipl.-Kaufmann,209.0,Kaiserslautern,Direktwahl,djrg.bsky.social
+11005252,Melanie Wegling,1990-01-07,weiblich,SPD,2021-10-26,2025-03-25,Internationale Vertriebsmanagerin,184.0,Groß-Gerau,Direktwahl,
+11004289,Metin Hakverdi,1969-06-25,männlich,SPD,2021-10-26,2025-03-25,Volljurist,23.0,Hamburg-Bergedorf - Harburg,Direktwahl,metinhakverdi.bsky.social
+11004039,Michael Gerdes,1960-05-23,männlich,SPD,2021-10-26,2025-03-25,"Bergmann, Elektrohauer",125.0,Bottrop - Recklinghausen III,Direktwahl,
+11005161,Michael Müller,1964-12-09,männlich,SPD,2021-10-26,2025-03-25,"Bürokaufmann, Regierender Bürgermeister a. D.",80.0,Berlin-Charlottenburg-Wilmersdorf,Direktwahl,
+11003213,Michael Roth,1970-08-24,männlich,SPD,2021-10-26,2025-03-25,Dipl.-Politologe,169.0,Werra-Meißner - Hersfeld-Rotenburg,Direktwahl,
+11004884,Michael Schrodi,1977-07-03,männlich,SPD,2021-10-26,2025-03-25,Studienrat,215.0,Fürstenfeldbruck,Landesliste,michael-schrodi.bsky.social
+11004424,Michael Thews,1964-09-06,männlich,SPD,2021-10-26,2025-03-25,Diplom-Chemieingenieur,145.0,Hamm - Unna II,Direktwahl,michaelthews.bsky.social
+11004359,Michelle Müntefering,1980-04-09,weiblich,SPD,2021-10-26,2025-03-25,Journalistin,141.0,Herne - Bochum II,Direktwahl,mi-muentefering.bsky.social
+11005084,Nadine Heselhaus,1978-10-12,weiblich,SPD,2021-10-26,2025-03-25,Dipl.-Verwaltungswirtin (FH),126.0,Borken II,Landesliste,
+11005310,Nadine Ruf,1978-02-02,weiblich,SPD,2024-01-26,2025-03-25,Geschäftsführerin,179.0,Wiesbaden,Landesliste,
+11005231,Nadja Sthamer,1990-03-13,weiblich,SPD,2021-10-26,2025-03-25,wiss. Mitarbeiterin,153.0,Leipzig II,Landesliste,
+11005177,Natalie Pawlik,1992-08-26,weiblich,SPD,2021-10-26,2025-03-25,Geschichts- und Sozialwissenschaftlerin (M.A.),177.0,Wetterau I,Direktwahl,nataliepawlik.bsky.social
+11004947,Nezahat Baradari,1965-08-15,weiblich,SPD,2021-10-26,2025-03-25,Fachärztin für Kinder- und Jugendmedizin,149.0,Olpe - Märkischer Kreis I,Landesliste,baradari.bsky.social
+11003732,Niels Annen,1973-04-06,männlich,SPD,2021-10-26,2025-03-25,"Historiker, Politikwissenschaftler, Staatsminister",20.0,Hamburg-Eimsbüttel,Landesliste,nielsannen.bsky.social
+11003231,Olaf Scholz,1958-06-14,männlich,SPD,2021-10-26,2025-03-25,Rechtsanwalt,61.0,Potsdam - Potsdam-Mittelmark II - Teltow-Fläming II,Direktwahl,dbroessler.bsky.social
+11004063,Oliver Kaczmarek,1970-08-08,männlich,SPD,2021-10-26,2025-03-25,,144.0,Unna I,Direktwahl,
+11005143,Parsa Marvi,1982-02-06,männlich,SPD,2021-10-26,2025-03-25,Produktmanager Breitband,271.0,Karlsruhe-Stadt,Landesliste,
+11005206,Peggy Schierenbeck,1970-10-09,weiblich,SPD,2021-10-26,2025-03-25,"Coach Führung und Kommunikation, Unternehmerin",33.0,Diepholz - Nienburg I,Landesliste,
+11003797,Prof. Dr. Karl Lauterbach,1963-02-21,männlich,SPD,2021-10-26,2025-03-25,Universitätsprofessor,101.0,Leverkusen - Köln IV,Direktwahl,
+11004257,Prof. Dr. Lars Castellucci,1974-02-24,männlich,SPD,2021-10-26,2025-03-25,Hochschullehrer,277.0,Rhein-Neckar,Landesliste,larscastellucci.bsky.social‬
+11005165,Rasha Nasr,1992-05-12,weiblich,SPD,2021-10-26,2025-03-25,Politikwissenschaftlerin,159.0,Dresden I,Landesliste,albrechtpallas.de
+11005202,Rebecca Schamber,1975-12-07,weiblich,SPD,2021-10-26,2025-03-25,Dipl.-Juristin,43.0,Hannover-Land I,Direktwahl,
+11005006,Reem Alabali-Radovan,1990-05-01,weiblich,SPD,2021-10-26,2025-03-25,Politikwissenschaftlerin,12.0,Schwerin - Ludwigslust-Parchim I - Nordwestmecklenburg I,Direktwahl,
+11004287,Rita Hagl-Kehl,1970-11-11,weiblich,SPD,2021-10-26,2025-03-25,Studienrätin,227.0,Deggendorf,Landesliste,
+11003847,Rita Schwarzelühr-Sutter,1962-10-13,weiblich,SPD,2021-10-26,2025-03-25,Dipl.-Betriebswirtin,288.0,Waldshut,Landesliste,ritaschwarzeluehr.bsky.social
+11005151,Robin Mesarosch,1991-04-01,männlich,SPD,2021-10-26,2025-03-25,Parl. Referent,295.0,Zollernalb - Sigmaringen,Landesliste,
+11005236,Ruppert Stüwe,1978-05-21,männlich,SPD,2021-10-26,2025-03-25,Dipl.-Volkswirt,79.0,Berlin-Steglitz-Zehlendorf,Landesliste,ruppertstuewe.bsky.social
+11004261,Sabine Dittmar,1964-09-15,weiblich,SPD,2021-10-26,2025-03-25,Ärztin,248.0,Bad Kissingen,Landesliste,
+11004377,Sabine Poschmann,1968-10-04,weiblich,SPD,2021-10-26,2025-03-25,Betriebswirtin (VWA),143.0,Dortmund II,Direktwahl,
+11005000,Sanae Abdi,1986-07-07,weiblich,SPD,2021-10-26,2025-03-25,"Vertragsmanagerin, Finanzmanagerin",93.0,Köln I,Direktwahl,sanaeabdi.bsky.social
+11005120,Sarah Lahrkamp,1981-07-04,weiblich,SPD,2021-10-26,2025-03-25,Politikwissenschaftlerin,124.0,Steinfurt I - Borken I,Landesliste,
+11004622,Sarah Ryglewski,1983-01-31,weiblich,SPD,2021-10-26,2025-03-25,Dipl.- Politologin,54.0,Bremen I,Direktwahl,
+11004267,Saskia Esken,1961-08-28,weiblich,SPD,2021-10-26,2025-03-25,staatl. geprüfte Informatikerin,280.0,Calw,Landesliste,eskensaskia.bsky.social
+11005056,Sebastian Fiedler,1973-06-19,männlich,SPD,2021-10-26,2025-03-25,Kriminalbeamter,118.0,Mülheim - Essen I,Direktwahl,
+11004291,Sebastian Hartmann,1977-07-07,männlich,SPD,2021-10-26,2025-03-25,Organisationsberater,97.0,Rhein-Sieg-Kreis I,Landesliste,sebastianhartmann.bsky.social
+11005191,Sebastian Roloff,1983-01-28,männlich,SPD,2021-10-26,2025-03-25,Rechtsanwalt,219.0,München-Süd,Landesliste,
+11004826,Siemtje Möller,1983-07-20,weiblich,SPD,2021-10-26,2025-03-25,Lehrerin,26.0,Friesland - Wilhelmshaven - Wittmund,Direktwahl,siemtje-moeller.de
+11005112,Simona Koß,1961-06-09,weiblich,SPD,2021-10-26,2025-03-25,Schulrätin,59.0,Märkisch-Oderland - Barnim II,Direktwahl,
+11005049,Sonja Eichwede,1987-10-25,weiblich,SPD,2021-10-26,2025-03-25,Richterin,60.0,BRB a.d.Havel– Potsdam-MittelmarkI –HVL III–Teltow-Fläming I,Direktwahl,
+11004150,Stefan Schwartze,1974-05-23,männlich,SPD,2021-10-26,2025-03-25,Industriemechaniker,133.0,Herford - Minden-Lübbecke II,Direktwahl,stefan-schwartze.de
+11004453,Stefan Zierke,1970-12-05,männlich,SPD,2021-10-26,2025-03-25,"Werkzeugmacher, Tourismusfachwirt, Reiseverkehrskaufmann",57.0,Uckermark - Barnim I,Direktwahl,zierke.bsky.social
+11004355,Susanne Mittag,1958-07-25,weiblich,SPD,2021-10-26,2025-03-25,ehem. Polizeibeamtin,28.0,Delmenhorst - Wesermarsch - Oldenburg-Land,Direktwahl,
+11005217,Svenja Schulze,1968-09-29,weiblich,SPD,2021-10-26,2025-03-25,Unternehmensberaterin,129.0,Münster,Landesliste,svenjaschulze.bsky.social
+11004412,Svenja Stadler,1976-08-26,weiblich,SPD,2021-10-26,2025-03-25,Senior-PR-Beraterin,36.0,Harburg,Direktwahl,svenjastadler.bsky.social
+11004953,Sylvia Lehmann,1954-04-23,weiblich,SPD,2021-10-26,2025-03-25,Ingenieurökonomin,62.0,Dahme-Spreewald - Teltow-Fläming III - Oberspreewald-Lausitz I,Direktwahl,
+11003830,Sönke Rix,1975-12-03,männlich,SPD,2021-10-26,2025-03-25,Erzieher,4.0,Rendsburg-Eckernförde,Direktwahl,
+11003496,Sören Bartol,1974-09-04,männlich,SPD,2021-10-26,2025-03-25,Politikwissenschaftler,171.0,Marburg,Direktwahl,
+11005148,Takis Mehmet Ali,1991-06-17,männlich,SPD,2021-10-26,2024-12-31,"Hochschullehrer, Leitung Verwaltung, Soziales",282.0,Lörrach - Müllheim,Landesliste,
+11004303,Thomas Hitschler,1982-06-22,männlich,SPD,2021-10-26,2025-03-25,Politikwissenschaftler,211.0,Südpfalz,Direktwahl,thomashitschler.bsky.social
+11004103,Thomas Lutze,1969-08-23,männlich,SPD,2023-10-10,2025-03-25,Bürokaufmann,,,Landesliste,
+11005109,Tim Klüssendorf,1991-08-16,männlich,SPD,2021-10-26,2025-03-25,"Volkswirt (B. Sc.), Betriebswirt (M. Sc.)",11.0,Lübeck,Direktwahl,
+11005207,Timo Schisanowski,1981-08-27,männlich,SPD,2021-10-26,2025-03-25,Wirtschaftsjurist,138.0,Hagen - Ennepe-Ruhr-Kreis I,Direktwahl,
+11005195,Tina Rudolph,1991-05-21,weiblich,SPD,2021-10-26,2025-03-25,Ärztin,190.0,Eisenach - Wartburgkreis - Unstrut-Hainich-Kreis,Landesliste,
+11004397,Udo Schiefner,1959-08-07,männlich,SPD,2021-10-26,2025-03-25,Qualitätssicherungs-Techniker,111.0,Viersen,Landesliste,
+11004246,Ulrike Bahr,1964-04-25,weiblich,SPD,2021-10-26,2025-03-25,Mittelschullehrerin,252.0,Augsburg-Stadt,Landesliste,
+11004878,Uwe Schmidt,1966-02-14,männlich,SPD,2021-10-26,2025-03-25,Hafenfacharbeiter,55.0,Bremen II - Bremerhaven,Direktwahl,
+11005089,Verena Hubertz,1987-11-26,weiblich,SPD,2021-10-26,2025-03-25,Unternehmerin,203.0,Trier,Direktwahl,verena-hubertz.de
+11005175,Wiebke Papenbrock,1979-11-24,weiblich,SPD,2021-10-26,2025-03-25,Referentin,56.0,Prignitz - Ostprignitz-Ruppin - Havelland I,Direktwahl,
+11004226,Wolfgang Hellmich,1958-05-05,männlich,SPD,2021-10-26,2025-03-25,Geschäftsführer,146.0,Soest,Landesliste,
+11005188,Ye-One Rhie,1987-08-29,weiblich,SPD,2021-10-26,2025-03-25,Kommunikationswissenschaftlerin,87.0,Aachen I,Landesliste,yeonerhie.de
+11004899,Dr. Dirk Spaniel,1971-11-03,männlich,Fraktionslos,2024-10-15,2025-03-25,Ingenieur,258.0,Stuttgart I,Landesliste,
+11003702,Dr. Volker Wissing,1970-04-22,männlich,Fraktionslos,2024-11-08,2025-03-25,Rechtsanwalt,211.0,Südpfalz,Landesliste,
+11004696,Joana Cotar,1973-04-06,weiblich,Fraktionslos,2022-11-21,2025-03-25,Magister Artium,183.0,Frankfurt am Main II,Landesliste,joanacotar.bsky.social
+11004764,Johannes Huber,1987-01-12,männlich,Fraktionslos,2022-01-01,2025-03-25,"Finanzbuchhalter, Finanzcontroller",214.0,Freising,Landesliste,
+11005079,Matthias Helferich,1988-10-14,männlich,Fraktionslos,2021-10-26,2025-03-25,Rechtsanwalt,143.0,Dortmund II,Landesliste,
+11005222,Melis Sekmen,1993-09-26,weiblich,Fraktionslos,2024-07-02,2024-07-09,Studentin,275.0,Mannheim,Landesliste,
+11005053,Robert Farle,1950-02-16,männlich,Fraktionslos,2022-09-09,2025-03-25,"Rechtsanwalt,  Steuerberater",74.0,Mansfeld,Direktwahl,
+11005219,Stefan Seidler,1979-12-18,männlich,Fraktionslos,2021-10-26,2025-03-25,Regierungs-Koordinator/Politischer Berater,1.0,Flensburg - Schleswig,Landesliste,stefanseidlerssw.bsky.social
+11004891,Thomas Seitz,1967-10-08,männlich,Fraktionslos,2024-03-31,2025-03-25,Rechtsassessor,283.0,Emmendingen - Lahr,Landesliste,
+11004937,Uwe Witt,1959-10-01,männlich,Fraktionslos,2022-01-01,2025-03-25,"Dipl.-Personalbetriebswirt (IDB), Staatl. gepr. Techniker",9.0,Ostholstein - Stormarn-Nord,Landesliste,
+11003858,Alexander Ulrich,1971-02-11,männlich,BSW,2024-02-02,2025-03-25,2. Bevollmächtigter und Geschäftsführer der IG-Metall,209.0,Kaiserslautern,Landesliste,aulrich.bsky.social
+11005007,Ali Al-Dailami,1981-12-27,männlich,BSW,2024-02-02,2025-03-25,Restaurantfachmann,173.0,Gießen,Landesliste,
+11004823,Amira Mohamed Ali,1980-01-16,weiblich,BSW,2024-02-02,2025-03-25,Rechtsanwältin,27.0,Oldenburg - Ammerland,Landesliste,
+11004060,Andrej Hunko,1963-09-29,männlich,BSW,2024-02-02,2025-03-25,Mediengestalter,87.0,Aachen I,Landesliste,
+11005127,Christian Leye,1981-04-06,männlich,BSW,2024-02-02,2025-03-25,Ökonom,116.0,Duisburg II,Landesliste,
+11004183,Dr. Sahra Wagenknecht,1969-07-16,weiblich,BSW,2024-02-02,2025-03-25,Autorin,,,Landesliste,
+11004911,Jessica Tatti,1981-04-22,weiblich,BSW,2024-02-02,2025-03-25,Sozialarbeiterin (B. A.),289.0,Reutlingen,Landesliste,
+11003753,Klaus Ernst,1954-11-01,männlich,BSW,2024-02-02,2025-03-25,"Gewerkschaftssekretär, Diplom-Volkswirt, Diplom-Sozialökonom",250.0,Schweinfurt,Landesliste,
+11003746,Sevim Dağdelen,1975-09-04,weiblich,BSW,2024-02-02,2025-03-25,Journalistin,140.0,Bochum I,Landesliste,
+11004837,Zaklin Nastic,1980-01-29,weiblich,BSW,2024-02-02,2025-03-25,Angehörigenpflegerin,20.0,Hamburg-Eimsbüttel,Landesliste,
+11004703,Anke Domscheit-Berg,1968-02-17,weiblich,Die LINKE,2024-02-02,2025-03-25,Publizistin,58.0,Oberhavel - Havelland II,Landesliste,anke.domscheit-berg.de
+11005073,Ates Gürpinar,1984-09-25,männlich,Die LINKE,2024-02-02,2025-03-25,,222.0,Rosenheim,Landesliste,atesguerpinar.dielinkebt.de
+11004865,Bernd Riexinger,1955-10-30,männlich,Die LINKE,2024-02-02,2025-03-25,"Bankkaufmann, Gewerkschaftssekretär",258.0,Stuttgart I,Landesliste,berndriexinger.bsky.social
+11004088,Caren Lay,1972-12-11,weiblich,Die LINKE,2024-02-02,2025-03-25,Dipl.-Soziologin,156.0,Bautzen I,Landesliste,carenlay.bsky.social
+11005067,Christian Görke,1962-03-17,männlich,Die LINKE,2024-02-02,2025-03-25,Lehrer für Sport und Geschichte,64.0,Cottbus - Spree-Neiße,Landesliste,christiangoerke.dielinkebt.de
+11005289,Clara Bünger,1986-07-04,weiblich,Die LINKE,2024-02-02,2025-03-25,Volljuristin,164.0,Erzgebirgskreis I,Landesliste,clarabuenger.bsky.social
+11004111,Cornelia Möhring,1960-01-09,weiblich,Die LINKE,2024-02-02,2025-03-25,Dipl. Sozialökonomin,7.0,Pinneberg,Landesliste,
+11004288,Dr. André Hahn,1963-04-20,männlich,Die LINKE,2024-02-02,2025-03-25,Lehrer,158.0,Sächsische Schweiz-Osterzgebirge,Landesliste,andrehahn.bsky.social
+11003034,Dr. Dietmar Bartsch,1958-03-31,männlich,Die LINKE,2024-02-02,2025-03-25,Wirtschaftswissenschaftler,14.0,Rostock - Landkreis Rostock II,Landesliste,dietmarbartsch.bsky.social‬
+11003584,Dr. Gesine Lötzsch,1961-08-07,weiblich,Die LINKE,2024-02-02,2025-03-25,Philologin,86.0,Berlin-Lichtenberg,Direktwahl,
+11000756,Dr. Gregor Gysi,1948-01-16,männlich,Die LINKE,2024-02-02,2025-03-25,Rechtsanwalt,84.0,Berlin-Treptow-Köpenick,Direktwahl,
+11003848,Dr. Petra Sitte,1960-12-01,weiblich,Die LINKE,2024-02-02,2025-03-25,Diplom-Ökonomin,72.0,Halle,Landesliste,petrasittemdb.bsky.social‬
+11004653,Gökay Akbulut,1982-11-16,weiblich,Die LINKE,2024-02-02,2025-03-25,Sozialwissenschaftlerin,275.0,Mannheim,Landesliste,goekayakbulut.bsky.social
+11005186,Heidi Reichinnek,1988-04-19,weiblich,Die LINKE,2024-02-02,2025-03-25,pädagigische Mitarbeiterin in der Jugendhilfe,39.0,Stadt Osnabrück,Landesliste,heidireichinnek.dielinkebt.de
+11005123,Ina Latendorf,1971-06-26,weiblich,Die LINKE,2024-02-02,2025-03-25,Juristin und Facharbeiterin für Pflanzenproduktion,12.0,Schwerin - Ludwigslust-Parchim I - Nordwestmecklenburg I,Landesliste,
+11003790,Jan Korte,1977-04-05,männlich,Die LINKE,2024-02-02,2025-03-25,Politikwissenschaftler M. A.,71.0,Anhalt,Landesliste,
+11005260,Janine Wissler,1981-05-23,weiblich,Die LINKE,2024-02-02,2025-03-25,Dipl.-Politikwissenschaftlerin,182.0,Frankfurt am Main I,Landesliste,janinewissler.bsky.social
+11004693,Jörg Cezanne,1958-06-08,männlich,Die LINKE,2024-03-08,2025-03-25,"Verbandsgeschäftsführer, Soziologe",184.0,Groß-Gerau,Landesliste,
+11004181,Kathrin Vogler,1963-09-29,weiblich,Die LINKE,2024-02-02,2025-03-25,Geschäftsführerin,128.0,Steinfurt III,Landesliste,voglerk.bsky.social
+11004385,Martina Renner,1967-03-11,weiblich,Die LINKE,2024-02-02,2025-03-25,"Autorin, Wissenschaftliche Mitarbeiterin",190.0,Eisenach - Wartburgkreis - Unstrut-Hainich-Kreis,Landesliste,martinarenner.bsky.social
+11004012,Matthias W. Birkwald,1961-09-28,männlich,Die LINKE,2024-02-02,2025-03-25,Dipl.-Sozialwissenschaftler,94.0,Köln II,Landesliste,
+11004041,Nicole Gohlke,1975-11-15,weiblich,Die LINKE,2024-02-02,2025-03-25,Sozialwissenschaftlerin,220.0,München-West/Mitte,Landesliste,nicolegohlke.bsky.social
+11003206,Petra Pau,1963-08-09,weiblich,Die LINKE,2024-02-02,2025-03-25,"Vizepräsidentin DBT, Lehrerin",85.0,Berlin-Marzahn-Hellersdorf,Landesliste,
+11004091,Ralph Lenkert,1967-05-09,männlich,Die LINKE,2024-02-02,2025-03-25,"Werkzeugmacher, staatlich geprüfter Techniker für Maschinenbau",191.0,Jena - Sömmerda - Weimarer Land I,Landesliste,
+11004715,Susanne Ferschl,1973-03-10,weiblich,Die LINKE,2024-02-02,2025-03-25,"Chemielaborantin, Mediatorin",257.0,Ostallgäu,Landesliste,susanneferschl.bsky.social
+11005082,Susanne Hennig-Wellsow,1977-10-13,weiblich,Die LINKE,2024-02-02,2025-03-25,Dipl.-Pädagogin,193.0,Erfurt - Weimar - Weimarer Land II,Landesliste,
+11004848,Sören Pellmann,1977-02-11,männlich,Die LINKE,2024-02-02,2025-03-25,Grund- und Förderschullehrer,153.0,Leipzig II,Direktwahl,pellmann.dielinkebt.de
+11004849,Victor Perli,1982-02-01,männlich,Die LINKE,2024-02-02,2025-03-25,Politikwissenschaftler (M.A.),49.0,Salzgitter - Wolfenbüttel,Landesliste,
