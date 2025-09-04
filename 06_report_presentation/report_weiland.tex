@@ -1,0 +1,174 @@
+\documentclass{article}
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=2.5cm,right=2.5cm,marginparwidth=1.75cm]{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage[
+  style=apa,
+  backend=biber,
+  maxnames=2,
+  minnames=1,
+  note=false,
+  doi=true,
+  url=false, 
+  isbn=false,
+  issn=false,
+  eprint=false
+]{biblatex}
+
+\AtEveryBibitem{\clearfield{note}}
+\AtEveryBibitem{%
+  \ifentrytype{misc}{%
+    \toggletrue{bbx:url}%
+  }{%
+    \togglefalse{bbx:url}%
+  }%
+}
+
+\usepackage{xcolor}
+\usepackage[colorlinks=true, linkcolor=blue, citecolor=blue, urlcolor=blue]{hyperref}
+
+\addbibresource{references.bib}
+
+\title{SMDA Final Project \\[0.5em]
+Party Political Communication on Bluesky \\[0.5em]
+\large \href{https://github.com/MaximilianWeiland/SMDA_Final_Project}{Link to GitHub Repository}}
+\author{Maximilian Weiland (01/1364761)}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Motivation}
+How does party communication on social media evolve over the electoral cycle? Numerous studies in political science have examined the causes and consequences of specific sentiments that parties strategically employ during election campaigns (see, for example, \textcite{crabtree_it_2020}; \textcite{fridkin_variability_2011}; \textcite{sides_voters_2010}). \textcite{castanho_silva_modulation_2024} expand on this line of literature by systematically examining how the communication patterns of political parties on Twitter change between non-campaign and campaign periods. They discover that governing parties generally speak more positively than the opposition, but that this gap narrows during election campaigns. \\
+\noindent In this project, I replicate their study by examining the change in sentiment in social media posts by German members of parliament (MPs) on Bluesky around the 2025 Bundestag election campaign. I examine how their sentiment changes between the period before the 2024 started campaign, during the campaign, and after the 2025 election. Since not all German parties are sufficiently represented on Bluesky, I develop specific hypotheses only for those parties that have enough MPs on the platform. Depending on whether the parties are government or opposition parties, I assume that their sentiment has changed either positively or negatively during the election campaign. I test the hypotheses using a multilevel regression analysis. In addition, I expand on the authors' methodology by measuring sentiment using a transformer-based RoBERTa model rather than a dictionary approach. \\
+\noindent Understanding how the communication styles of parties change between election and non-election periods helps to gain further insights into how these parties attempt to maximize their vote share in upcoming elections. The use of a certain emotional tone can lead to increased media attention \parencite{maier_roaring_2020} and change voters' assessment of the respective candidate or party \parencite{krupnikov_accentuating_2015}. Thus, it matters to examine how parties make strategic use of these effects in their communication on social media. \\
+
+\section{Background}
+The question of why parties use certain sentiments during election campaigns has been dealt with extensively in the literature. \textcite{crabtree_it_2020} analyze election manifestos and find that incumbency status as well as structural factors such as economic performance matter. The authors show that opposition parties communicate more negatively than government parties in order to portray the performance of the previous government as a failure. \textcite{yildirim_emotions_2025} deviates from the rough distinction between positive and negative sentiment by analyzing how British politicians use emotional language in general. He manually codes parliamentary speeches in terms of their use of emotions such as anger, joy, fear, or sadness and finds that speeches by politically vulnerable, young, and opposition MPs contain a higher proportion of emotional language. \\
+\noindent Politicians strategically exploit certain sentiments to attract attention and win votes. \textcite{osnabrugge_playing_2021} show that emotive language is used to higher degrees in British parliamentary speeches when the audience is larger. \textcite{klinger_are_2024} analyze Facebook posts by politicians prior to the 2014 and 2019 European elections and find that more negativity leads to higher user engagement and can therefore be used strategically to attract attention. Negatively framed campaigns can also lower voters' ratings of the respective candidates \parencite{krupnikov_accentuating_2015}. \textcite{boussalis_gender_2021} show that the effect of certain sentiment styles is dependent on the candidate's gender. The authors find that people reward female politicians for expressing happiness and punish them for showing negative emotions such as anger. \\
+\noindent While most studies focus on sentiment during election campaigns, \textcite{castanho_silva_modulation_2024} examine both campaign and non-campaign periods. They find that opposition parties adopt a more positive tone during campaigns, while governing parties become more negative. This shift occurs because opposition parties emphasize their own policies while campaigning, whereas governing parties increasingly criticize their competitors. By replicating their study, I examine how social media communication is strategically used to convey political messages. Unlike most prior work, which relies on hand-coding \parencite{yildirim_emotions_2025} or dictionary methods \parencite{castanho_silva_modulation_2024}, I use the more advanced transformer-based RoBERTa model to detect sentiment. In addition, I account for uncertainty through a bootstrap analysis.
+
+\section{Hypotheses}
+I only include those parties in the analysis that are represented by a sufficient number of MPs on Bluesky. These parties are Bündnis 90/Die Grünen (also called the Greens in the following), the SPD and Die LINKE (also called the Left party in the following). \\
+\noindent The SPD has been part of the government in both the 2021 as well as in the 2025 elected Bundestag. Therefore, in accordance with \textcite{castanho_silva_modulation_2024}, I assume that they lowered their generally positive tone only during the election campaign in order to be able to criticize the programs of competing parties. \\
+
+\noindent \textit{H1: The SPD communicated less positively during the election campaign.} \\
+
+\noindent The Greens were part of the governing coalition in the Bundestag elected in 2021 but found themselves in the opposition after the election. I therefore expect their communication to have been most positive before the campaign, to have reduced in positivity during the campaign, and to have become even more negative afterward. While in government, the Greens had to promote the coalition’s agenda. During the campaign, they increasingly criticized opposition parties and after the election, now in opposition, they have turned more negative toward the new government.\\
+
+\noindent \textit{H2: The Greens were most positive before the election campaign, became more negative during the campaign and even more so after the election.} \\
+
+\noindent Die LINKE has remained in opposition across both parliaments. I therefore expect a positive sentiment shift only during the campaign period, as the party emphasizes its own policies. Before and after the campaign, its communication is likely dominated by criticism of the governing parties. \\
+
+\noindent \textit{H3: Die LINKE communicated most positively during the election campaign.}\\
+
+\section{Data and Methods}
+
+\subsection{Data Sources and Retrieval}
+To retrieve all names and background data on MPs in the 2021 and 2025 Bundestag, I relied on the German Bundestag’s open data portal \parencite{deutscher_bundestag_deutscher_2025} which provides a comprehensive XML file with the respective information for all ever elected German MPs. My research period runs from June 1, 2024, to July 31, 2025. I filtered this file for MPs active during this period, accounting for those who left early or changed factions. I obtained a dataset including names, factions, start and end dates, professions, birthdates, and mandate type. \\
+\noindent Bluesky posts can be accessed via the Bluesky API \parencite{bluesky_bluesky_2025}. Extracting posts requires an account handle, so I first verified which MPs in my dataset have Bluesky accounts and identified their handles. I used the API to find the most likely handle for each MP, but also verified all records manually. This resulted in a total of $162$ politicians in the Bundestag from 2021 and 2025 having a Bluesky account. The distribution across parties is shown in Figure~\ref{fig:prop_mp_account}. The barplots illustrate that most parties are not yet well represented. I have therefore decided to focus my analysis solely on the SPD, the Greens, and Die LINKE, which I consider to have a reasonable proportion of politicians represented. I downloaded all posts published by all MPs from these parties during the research period from June 2024 to July 2025. I excluded all reposts and cleaned the texts. After extracting all posts, I merged each post with the politician's respective personal information at the time the post was published.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=1\textwidth]{plots/prop_accounts_pp.png}
+    \caption{Proportion of Bundestag MPs with a Bluesky Account}
+    \label{fig:prop_mp_account}
+\end{figure}
+
+\subsection{Sentiment Classification and Validation}
+Unlike the original study, I calculate a sentiment score for each post using a BERT model. This approach outperforms dictionary-based methods because BERT represents both the entire text and its individual tokens as contextualized vectors, which can then be fine-tuned to predict the sentiment class. Several BERT-based models have been fine-tuned on German texts, which motivates my comparison of three such models to identify the best performing one for my dataset. I manually sampled and labeled $100$ posts. Then, I predict the sentiment for all posts with each of the models and compute precision, recall, and F1-scores for each class. The models considered are: \textit{german-sentiment-bert} \parencite{guhr_training_2020}, trained on a diverse set of German texts; \textit{XLM-RoBERTa-German-Sentiment} \parencite{nasser_ssaryxlm-roberta-german-sentiment_2024}, which was fine-tuned on the same dataset as \parencite{guhr_training_2020} but using RoBERTa instead of BERT; and \textit{xlm-roberta-base-tweet-sentiment-de} \parencite{cardiffnlp_cardiffnlpxlm-roberta-base-tweet-sentiment-_2023}, a RoBERTa model fine-tuned specifically on German tweets. Figure~\ref{fig:validation_classifiers} presents the evaluation results. The model developed by the CardiffNLP group performs best across all classes both in terms of both precision and recall. It achieves F1-scores of at least $0.71$ for all classes, with the highest performance on neutral texts, reaching an F1-score of $0.83$. By contrast, the other two models struggle to correctly identify all positive and negative texts. As shown in the confusion matrices in the appendix (Figure~\ref{fig:confusion_matrices}), this is largely due to their tendency to misclassify such texts as neutral. The CardiffNLP model, still achieves a recall value of over $60\%$ for the positive and negative class. Based on this validation, it is clear that I proceed using the model developed by the CardiffNLP group for my analysis.
+\noindent Since I am running a regression analysis with a continuous dependent variable, I need a numeric sentiment score rather than a categorical prediction. Following \textcite{castanho_silva_modulation_2024} who calculate sentiment as the ratio of positive to negative words with larger values indicating more positive sentiment, I construct a similar measure based on model's output probabilities. I divide the predicted probability of the text being positive by the probability of it being negative and then take the natural logarithm of this ratio. The result is the log-odds of the positive class where higher values indicate more positive sentiment and equal steps in either direction reflect the same relative change in sentiment. \\
+\noindent Figure~\ref{fig:mean_sentiment_across_time} shows the average sentiment score of all MPs per week for the entire research period. It can be seen that the average sentiment is consistently negative and continues to decline over time. While it fluctuates around a value of $-1$ in June 2024, it drops to a mean value of $-2.5$ in July 2025. The confidence intervals show that the number of posts has increased over time, leading to greater certainty about the mean, especially after the beginning of 2025, which is also clearly visible in Figure~\ref{fig:posts_per_day}.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{plots/classification_validation.png}
+    \caption{Validation Metrics of Sentiment Classifiers}
+    \label{fig:validation_classifiers}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{plots/mean_sentiment_per_time.png}
+    \caption{Mean Sentiment across all Parties over Time}
+    \label{fig:mean_sentiment_across_time}
+\end{figure}
+
+\subsection{Statistical Method and Variables}
+In line with the original study, I test my hypotheses using a multilevel regression analysis. The need for such a multilevel approach stems from the fact that the data is hierarchically structured and not all observations are identically and independently distributed. Each individual politician appears multiple times and is also grouped at the level of their party. Multilevel models assign an additional random variance to each of these clusters, which explicitly models this hierarchy and also prevents overly optimistic standard errors. \\
+\noindent Instead of using each individual post, I calculate the mean sentiment score of each MP per week. This weekly MP period is the lowest observational unit in the multilevel model. At the MP-level I include random intercepts as well as a random slope for the \textit{Week} variable which indexes each week continuously. This accounts for individual baseline differences and allows MPs to change in positivity or negativity to varying degrees over time. The original paper also includes random intercepts at the party level, which generally makes sense since the data is clearly grouped in this way. In my model, I explicitly control for party affiliation as a fixed effect, which already captures the baseline differences between parties and makes additional random intercepts at the party level redundant. \\
+\noindent I test the hypotheses using an interaction between the \textit{Period} and \textit{Party} variables. \textit{Period} indicates whether posts were made in the pre-election, campaign, or post-election phase. The pre-election period spans June 1, 2024, to the announcement of new elections on December 27, 2024. The campaign period runs until election day on February 23, 2025. Excluding the caretaker government, the post-election period begins with the constitution of the new parliament on March 25, 2025, and continues until July 31, 2025. \textit{Party} encodes MPs’ party affiliation. In the regression, the reference categories are "Pre-Campaign" for \textit{Period} and "Die LINKE" for \textit{Party}. Additional control variables capture the politician’s age, gender, and mandate type. \\
+\noindent To further assess the uncertainty of the effects, I perform a bootstrap analysis with 1000 iterations, for which I only include the converged models in the analysis.
+
+\section{Analysis}
+
+\subsection{Results}
+Table~\ref{tab:multilevel_model_full} presents the results of the multilevel regression analysis. The model includes random intercepts and a random slope for \textit{Week} across all $141$ MPs. The random intercepts show considerable variance of $2.14$, while the covariance between intercepts and slopes is negative, indicating that higher intercepts are associated with more negative slopes. In contrast, the variance in slopes for \textit{Week} across MPs is negligible.
+
+\begin{table}[H]
+    \centering
+    \input{tables/multilevel_model_general}
+    \vspace{1em} % small vertical space
+    \input{tables/multilevel_model_coefficients}
+    \caption{Multilevel Regression Model Summary}
+    \label{tab:multilevel_model_full}
+\end{table}
+
+\noindent The remaining coefficients represent the model’s fixed effects. Posting during the campaign period is associated with more positive sentiment compared to the pre-campaign period, whereas the post-election period corresponds to more negative sentiment. MPs from the Greens and the SPD show a more positive baseline sentiment than those from Die LINKE. However, because the model includes interaction effects, the influence of period and party affiliation must be interpreted conditionally. These conditional effects are reflected in the interaction coefficients. The results suggest that the general positive effect of the campaign perod applies mainly to the Left party, while it is substantially weaker for the SPD and even negative for the Greens. After the election, sentiment declines more sharply for the Greens, whereas SPD legislators show a slight increase. \\
+\noindent To facilitate interpretation, Figure~\ref{fig:interaction_effects_original} visualizes the predicted sentiment for the bootstrap analysis across all interaction combinations, holding other variables constant at their means. The plot shows the mean bootstrap estimate as well as the $95\%$ confidence interval. Die LINKE becomes more positive during the campaign, the Greens communicate most positively before the campaign but decline steadily afterward, and SPD sentiment remains relatively stable with a slight increase between periods.\\
+\noindent The control variables indicate that female MPs and those elected via the party list tend to post more positively than their male or directly elected counterparts. Age has a small positive effect on sentiment, while sentiment overall has become more negative over time. \\
+Among all effects, only the interaction between the campaign period and Green party affiliation is statistically significant at the $5\%$ level. All other estimates are not significant, with the interaction between the post-election period and SPD affiliation coming closest. The bootstrap coefficient distributions shown in the appendix in Figure~\ref{fig:bootstrap_coefficients_histograms} illustrate this issue as apart from these two interactions, all distributions clearly cross the threshold of $0$.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=1\textwidth]{plots/interaction_effects_original.png}
+    \caption{Bootstrap Analysis: Visualization of Interaction Effects}
+    \label{fig:interaction_effects_original}
+\end{figure}
+
+\subsection{Discussion}
+The results of the analysis partially support my initial expectations. I had hypothesized that the Greens would be more positive before the election and increasingly negative afterwards. This expectation was fulfilled, as shown in Figure~\ref{fig:interaction_effects_original}, and is consistent with the results of \textcite{castanho_silva_modulation_2024}. As long as the Greens were part of the government, they had to promote the government's agenda. During the election campaign, they presumably began to refer to competing parties, which they portrayed in a negative light, leading to a decline in sentiment. After the election, they take on the position of an opposition party and portray the newly elected government even more negatively. \\
+\noindent Die LINKE clearly illustrates the most important finding of \textcite{castanho_silva_modulation_2024}, namely that opposition parties communicate more positively during election campaigns. It was precisely during the election campaign phase that they published the most positive posts, as they had to promote their own election program. Both before the election campaign and after the election, they tend to be more negative. \\
+\noindent The behavioral patterns for SPD politicians do not align with the prior expectations. As a government party, I anticipated a decrease in sentiment during the campaign, but there is no clear difference between the pre-election and campaign periods, suggesting that the trend of criticizing competing parties did not apply. After the election, SPD posts are even more positive than before the campaign. \\ 
+\noindent Furthermore, the general differences in sentiment between governing and opposition parties, as presented in \textcite{crabtree_it_2020}, are not as pronounced in this analysis. Both the SPD and the Greens communicate more positively than the opposition in the run-up to the election campaign. However, this difference is not only quite small, but becomes almost negligible during the election campaign, as Die LINKE appears even more positive than the Greens. It is to be expected that the Left party will begin to spread more positive messages during the election campaign, but it is surprising that it is even more positive than a party which is part of the government. \\
+\noindent I must point out once again that most of the effects have not been statistically significant. Only the negative difference in sentiment between the pre-campaign and campaign period for the Greens has been. Nevertheless, I consider the results worth reporting as most of the interaction effects point in the expected direction and are generally in line with \textcite{castanho_silva_modulation_2024}. I also conducted a robustness check, in which I performed the same analysis but used a more conservative research period by removing additional weeks after the parliamentary constitution. All key findings remained unchanged. \\
+\noindent I must also reflect critically on the generally small sample size with which I conducted the analysis. As Figure~\ref{fig:prop_mp_account} shows, the majority of SPD MPs and a significant proportion of the Left Party are not represented on Bluesky. It is difficult to argue that the posts of those MPs who do have a Bluesky account are fully representative of the general party line. Moreover, all results are strictly bound to the selected parties. \textcite{castanho_silva_modulation_2024} take a systematic approach by examining a large number of parties across several countries to draw conclusions about how governing and opposition parties behave. My findings are far less generalizable and could be influenced by a variety of other confounding factors. Furthermore, the rough distinction between positive and negative sentiment neglects much of the nuance of the emotional tone with which a social media post can be expressed. As suggested by \textcite{widmann_how_2021}, it makes sense to analyze more closely what specific emotions politicians convey in their posts and why they do so. Future research could also examine additional sources of political communication, or further improve sentiment measurement for social media posts.
+
+
+\newpage
+\printbibliography
+
+\newpage
+\section*{Appendix}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=1\textwidth]{plots/posts_per_day.png}
+    \caption{Number of Posts per Day}
+    \label{fig:posts_per_day}
+\end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=1\textwidth]{plots/confusion_matrices.png}
+    \caption{Confusion Matrices for Sentiment Classifiers}
+    \label{fig:confusion_matrices}
+\end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=1\textwidth]{plots/bootstrap_coefficient_histograms.png}
+    \caption{Bootstrap distributions of all coefficients}
+    \label{fig:bootstrap_coefficients_histograms}
+\end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=1\textwidth]{plots/interaction_effects_robustness.png}
+    \caption{Robustness Check: Interaction Effects}
+    \label{fig:interaction_effects_robustness}
+\end{figure}
+
+\end{document}
