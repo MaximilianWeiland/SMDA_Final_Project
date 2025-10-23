@@ -1,4 +1,4 @@
-# SMDA Final Project
+# Party Political Communication on Bluesky
 Repository for the final project of the seminar “Social Media Data Analysis.” This project examines how German politicians change the sentiment of their social media posts over the course of the election cycle. In particular, it examines whether and how members of parliament communicate differently during election campaigns. This project is a replication of the study [Modulation of Democracy: Partisan Communication During and After Election Campaigns](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/modulation-of-democracy-partisan-communication-during-and-after-election-campaigns/0124647855F11EE6809B59EDA521020E) (Castanho Silva et al., 2024).
 
 ## Folder Structure
